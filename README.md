@@ -12,6 +12,7 @@ R code used for research on Congenital Heart Disease (CHD) in the research proje
 ## Code organization
 
 * [Data Cleaning](<https://github.com/UCL-CORU/CHD-research-code/tree/main/01 Data cleaning>)
+* [Patient Trajectories](<https://github.com/UCL-CORU/CHD-research-code/tree/main/02 Patient trajectories>)
 
 ## Publication list
 
