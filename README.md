@@ -34,7 +34,7 @@ The CHAMPION project was funded by the National Institute for Health and Care Re
 ## References
 
 * K.L Brown, Q. Huang, F. Espuny-Pujol, etal. Evaluating long-term outcomes of children undergoing surgical treatment for congenital heart disease for national audit in England and Wales. [J. Am. Heart Assoc. 2024](https://www.ahajournals.org/doi/10.1161/JAHA.124.035166).
-* K.M. English, F. Espuny-Pujol, etal. Secundum atrial septal defect closure in adults in the UK. Eur. Heart J. - Quality of Care and Clinical Outcomes, qcae019. 2024.
+* K.M. English, F. Espuny-Pujol, R.C. Franklin, etal. Secundum atrial septal defect closure in adults in the UK. [Eur. Heart J. - Quality of Care and Clinical Outcomes, qcae019. 2024.](https://doi.org/10.1093/ehjqcco/qcae019)
 * D. Dorobantu, F. Espuny Pujol, etal. Arterial switch for transposition of the great arteries: treatment timing, late outcomes and risk factors. J. Am. Coll. Cardiol. Adv., 2(5)100407. 2023.
 * D. Dorobantu, Q. Huang, F. Espuny Pujol, etal. Hospital resource utilization in a national cohort of functionally single ventricle patients undergoing surgical treatment. J. Thorac. Cardiov. Surg. Open, 14: 441–461. 2023.
 * K.L. Brown, Q. Huang, …, F. Espuny-Pujol, R. Franklin, D. Ridout. Long-term survival and centre volume for functionally single ventricle congenital heart disease in England and Wales. J. Thorac. Cardiovasc. Surg., 166(2): 306–316.e3. 2023.
