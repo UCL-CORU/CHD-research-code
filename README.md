@@ -23,7 +23,7 @@ Additional R code can be found in the [UCL CORU site](https://github.com/UCL-COR
 
 ## Acknowledgements
 
-We are grategul to Libby Rogers, previous UCL CORU member, whose Stata code served as starting point for working with NCHDA data.
+We are grateful to Libby Rogers, previous UCL CORU member, whose Stata code served as starting point for working with NCHDA data.
 
 The LAUNCHES QI project and the development of this CHD research R code were funded by the Health Foundation, an independent charity committed to bringing about better health and health care for people in the United Kingdom (Award number 685009).
 
