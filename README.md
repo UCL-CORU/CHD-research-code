@@ -21,6 +21,10 @@ Additional R code can be found in the [UCL CORU site](https://github.com/UCL-COR
 * [Linkage of records using patient identifiers](https://github.com/UCL-CORU/LAUNCHESQI_Linkage)
 * [Identification of pathways of care for CHD sentinel diagnosis groups](https://github.com/UCL-CORU/CHAMPION-work-stream-2)
 
+## Acknowledgements
+
+We are grategul to Liby Rodgers, previous CORU member, whose Stata code served as starting point for using NCHDA data.
+
 ## Publication list
 
 > Pending
