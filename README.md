@@ -17,6 +17,8 @@ R code used for research on Congenital Heart Disease (CHD) in the research proje
 * [Outcomes of Interest](<https://github.com/UCL-CORU/CHD-research-code/tree/main/04 Outcomes of interest>)
 * [Risk Models](<https://github.com/UCL-CORU/CHD-research-code/tree/main/05 Risk models>)
 
+Additional code can be found in the main site for the [linkage of records using patient identifiers](https://github.com/UCL-CORU/LAUNCHESQI_Linkage) and for the [identification of pathways of care for sentinel diagnosis groups](https://github.com/UCL-CORU/CHAMPION-work-stream-2)
+
 ## Publication list
 
 > Pending
