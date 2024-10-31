@@ -19,7 +19,7 @@ R code used for research on Congenital Heart Disease (CHD) in the research proje
 
 Additional R code can be found in the [UCL CORU site](https://github.com/UCL-CORU/) for:
 * [Linkage of records using patient identifiers](https://github.com/UCL-CORU/LAUNCHESQI_Linkage)
-* [Identification of pathways of care for sentinel diagnosis groups](https://github.com/UCL-CORU/CHAMPION-work-stream-2)
+* [Identification of pathways of care for CHD sentinel diagnosis groups](https://github.com/UCL-CORU/CHAMPION-work-stream-2)
 
 ## Publication list
 
