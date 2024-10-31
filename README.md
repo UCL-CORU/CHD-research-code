@@ -11,4 +11,4 @@ R code used for research on Congenital Heart Disease (CHD) in the research proje
 
 ## Code organization
 
-[Data Cleaning]("https://github.com/UCL-CORU/CHD-research-code/01 Data Cleaning")
+* [Data Cleaning](<https://github.com/UCL-CORU/CHD-research-code/01 Data Cleaning>)
