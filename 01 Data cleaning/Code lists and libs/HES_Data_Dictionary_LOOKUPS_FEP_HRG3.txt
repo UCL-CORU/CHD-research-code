@@ -1,0 +1,845 @@
+HRGcode	HRGdesc	"Cardiac (0=No, 1=Yes, 2=Ambiguous)"	"ProcComplications (0=No, 1=Yes)"	Yr98	Yr00	Yr01	Yr02	Yr03	Yr04	Yr05	Yr06	Yr07	Yr08	Yr09	Yr10	Yr11
+A01	Intracranial Procedures Except Trauma - Category 1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A02	Intracranial Procedures Except Trauma - Category 2	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A03	Intracranial Procedures Except Trauma - Category 3	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A04	Intracranial Procedures Except Trauma - Category 4	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A05	Intracranial Procedures for Trauma w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A06	Intracranial Procedures for Trauma w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A07	Intermediate Pain Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A08	Percutaneous Image Controlled Pain Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A09	Peripheral Nerve Disorders >69 or w cc	0	0	1	1	1	1									
+A09	Peripheral Nerve Disorder w cc	0	0					1	1	1	1	1	1	1	1	1
+A10	Peripheral Nerve Disorders <70 w/o cc	0	0	1	1	1	1									
+A10	Peripheral Nerve Disorder w/o cc	0	0					1	1	1	1	1	1	1	1	1
+A11	Neuromuscular Disorders	0	0	1	1	1	1									
+A11	Muscular Disorders	0	0					1	1	1	1	1	1	1	1	1
+A12	Disorders of Balance >69 or w cc	0	0	1	1	1	1									
+A12	Disorder of Balance aetiology unknown w cc	0	0					1	1	1	1	1	1	1	1	1
+A13	Disorders of Balance <70 w/o cc	0	0	1	1	1	1									
+A13	Disorder of Balance aetiology unknown w/o cc	0	0					1	1	1	1	1	1	1	1	1
+A14	Brain Tumours or Cerebral Cysts >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A15	Brain Tumours or Cerebral Cysts <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A16	Cerebral Degenerations >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A17	Cerebral Degenerations <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A18	Multiple Sclerosis or other CNS Demyelinating Conditions	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A19	Haemorrhagic Cerebrovascular Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A20	Transient Ischaemic Attack >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A21	Transient Ischaemic Attack <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A22	Non-Transient Stroke or Cerebrovascular Accident >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A23	Non-Transient Stroke or Cerebrovascular Accident <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A24	Cranial Nerve Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A25	Nervous System Infections	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A26	Encephalopathy	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A27	Headache or Migraine >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A28	Headache or Migraine <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A29	Epilepsy >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A30	Epilepsy <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A31	Head Injury with Brain Injury	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A32	Head Injury without Significant Brain Injury w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A33	Head Injury without Significant Brain Injury w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A34	Miscellaneous Disorders of Nervous System	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A37	Motor Neuron Disease	0	0					1	1	1	1	1	1	1	1	1
+A38	Alzheimers Disease	0	0					1	1	1	1	1	1	1	1	1
+A98	Chemotherapy with a Nervous System Primary Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+A99	Complex Elderly with a Nervous System Primary Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+B01	Trabeculectomy	0	0	1	1	1	1									
+B02	Phakoemulsification Cataract Extraction with Lens Implant	0	0	1	1	1	1									
+B03	Other Cataract Extraction with Lens Implant	0	0	1	1	1	1									
+B04	Other Ophthalmic Procedures - Category 1	0	0	1	1	1	1									
+B05	Other Ophthalmic Procedures - Category 2	0	0	1	1	1	1									
+B06	Other Ophthalmic Procedures - Category 3	0	0	1	1	1	1									
+B07	Other Ophthalmic Procedures - Category 4	0	0	1	1	1	1									
+B08	Other Ophthalmic Procedures - Category 5	0	0	1	1	1	1									
+B09	Other Ophthalmic Procedures - Category 6	0	0	1	1	1	1									
+B10	Major Ophthalmic Non-Surgical Admissions	0	0	1	1	1	1									
+B11	Intermediate Ophthalmic Non-Surgical Admissions	0	0	1	1	1	1									
+B12	Minor Ophthalmic Non-Surgical Admissions	0	0	1	1	1	1									
+B13	Phakoemulsification Cataract Extraction and Insertion of Lens	0	0					1	1	1	1	1	1	1	1	1
+B14	Non Phakoemulsification Cataract Surgery	0	0					1	1	1	1	1	1	1	1	1
+B15	Other Lens Surgery Low Complexity	0	0					1	1	1	1	1	1	1	1	1
+B16	Oculoplastic Low Complexity	0	0					1	1	1	1	1	1	1	1	1
+B17	Oculoplastic Intermediate Complexity	0	0					1	1	1	1	1	1	1	1	1
+B18	Oculoplastic High Complexity	0	0					1	1	1	1	1	1	1	1	1
+B19	Orbit / Lacrimal Low Complexity	0	0					1	1	1	1	1	1	1	1	1
+B20	Orbit / Lacrimal Intermediate Complexity	0	0					1	1	1	1	1	1	1	1	1
+B21	Orbit / Lacrimal High Complexity	0	0					1	1	1	1	1	1	1	1	1
+B22	Cornea / Sclera Low Complexity	0	0					1	1	1	1	1	1	1	1	1
+B23	Cornea / Sclera Intermediate / High Complexity	0	0					1	1	1	1	1	1	1	1	1
+B24	Ocular Motility Intermediate Complexity	0	0					1	1	1	1	1	1	1	1	1
+B25	Ocular Motility Redo / Adjustable / High Complexity	0	0					1	1	1	1	1	1	1	1	1
+B26	Glaucoma / Uvea Low Complexity	0	0					1	1	1	1	1	1	1	1	1
+B27	Glaucoma / Uvea Intermediate Complexity	0	0					1	1	1	1	1	1	1	1	1
+B28	Glaucoma / Uvea High Complexity	0	0					1	1	1	1	1	1	1	1	1
+B29	Surgical Retina Low Complexity	0	0					1	1	1	1	1	1	1	1	1
+B30	Surgical Retina Intermediate Complexity	0	0					1	1	1	1	1	1	1	1	1
+B31	Surgical Retina High Complexity	0	0					1	1	1	1	1	1	1	1	1
+B32	Non Surgical Ophthalmology with los <2 days	0	0					1	1	1	1	1	1	1	1	1
+B33	Non Surgical Ophthalmology with los >1 day	0	0					1	1	1	1	1	1	1	1	1
+C01	Ear Procedures - Category 1	0	0	1	1	1	1									
+C02	Nose Procedures - Category 1	0	0	1	1	1	1									
+C04	Mouth or Throat Procedures - Category 1	0	0	1	1	1	1									
+C04	Minor Mouth or Throat Procedures	0	0					1	1	1	1	1	1	1	1	1
+C06	Mouth Head Neck or Ear Diagnoses - Category 1 >69 or w cc	0	0	1	1	1										
+C06	"Mouth, Head, Neck or Ear Diagnoses - Category 1 >69 or w cc"	0	0				1									
+C06	"Minor Medical Head, Neck or Ear Diagnoses >69 or w cc"	0	0					1	1	1	1	1	1	1	1	1
+C07	Mouth Head Neck or Ear Diagnoses - Category 1 <70 w/o cc	0	0	1	1	1										
+C07	"Mouth, Head, Neck or Ear Diagnoses - Category 1 <70 w/o cc"	0	0				1									
+C07	"Minor Medical Head, Neck or Ear Diagnoses <70 w/o cc"	0	0					1	1	1	1	1	1	1	1	1
+C11	Ear Procedures - Category 2	0	0	1	1	1	1									
+C12	Nose Procedures - Category 2	0	0	1	1	1	1									
+C14	Mouth or Throat Procedures - Category 2	0	0	1	1	1	1									
+C15	ENT Bone Procedures - Category 2	0	0	1	1	1	1									
+C15	Minor Maxillo-facial/ENT procedures	0	0					1	1	1	1	1	1	1	1	1
+C16	Mouth Head Neck or Ear Diagnoses - Category 2 >69 or w cc	0	0	1	1	1										
+C16	"Mouth, Head, Neck or Ear Diagnoses - Category 2 >69 or w cc"	0	0				1									
+C16	"Intermediate Medical Head, Neck or Ear Diagnoses w cc"	0	0					1	1	1	1	1	1	1	1	1
+C17	Mouth Head Neck or Ear Diagnoses - Category 2 <70 w/o cc	0	0	1	1	1										
+C17	"Mouth, Head, Neck or Ear Diagnoses - Category 2 <70 w/o cc"	0	0				1									
+C17	"Intermediate Medical Head, Neck or Ear Diagnoses w/o cc"	0	0					1	1	1	1	1	1	1	1	1
+C21	Ear Procedures - Category 3	0	0	1	1	1	1									
+C21	Intermediate Ear Procedures	0	0					1	1	1	1	1	1	1	1	1
+C22	Nose Procedures - Category 3	0	0	1	1	1	1									
+C22	Intermediate Nose Procedures	0	0					1	1	1	1	1	1	1	1	1
+C24	Mouth or Throat Procedures - Category 3	0	0	1	1	1	1									
+C25	ENT Bone Procedures - Category 3	0	0	1	1	1	1									
+C25	Intermediate Maxillo-facial/ENT procedures	0	0					1	1	1	1	1	1	1	1	1
+C26	Mouth Head Neck or Ear Diagnoses - Category 3 >69 or w cc	0	0	1	1	1										
+C26	"Mouth, Head, Neck or Ear Diagnoses - Category 3 >69 or w cc"	0	0				1									
+C26	"Major Medical, Head, Neck or Ear Diagnoses w cc"	0	0					1	1	1	1	1	1	1	1	1
+C27	Mouth Head Neck or Ear Diagnoses - Category 3 <70 w/o cc	0	0	1	1	1										
+C27	"Mouth, Head, Neck or Ear Diagnoses - Category 3 <70 w/o cc"	0	0				1									
+C27	"Major Medical, Head, Neck or Ear Diagnoses w/o cc"	0	0					1	1	1	1	1	1	1	1	1
+C31	Ear Procedures - Category 4	0	0	1	1	1	1									
+C31	Major Ear Procedures	0	0					1	1	1	1	1	1	1	1	1
+C32	Nose Procedures - Category 4	0	0	1	1	1	1									
+C32	Major Nose Procedures	0	0					1	1	1	1	1	1	1	1	1
+C34	Mouth or Throat Procedures - Category 4	0	0	1	1	1	1									
+C35	ENT Bone Procedures - Category 4	0	0	1	1	1	1									
+C35	Major Maxillo-facial/ENT Procedures	0	0					1	1	1	1	1	1	1	1	1
+C36	Mouth Head Neck or Ear Diagnoses - Category 4 >69 or w cc	0	0	1	1	1										
+C36	"Mouth, Head, Neck or Ear Diagnoses - Category 4 >69 or w cc"	0	0				1									
+C36	"Complex Major Head, Neck or Ear Diagnoses >69 or w cc"	0	0					1	1	1	1	1	1	1	1	1
+C37	Mouth Head Neck or Ear Diagnoses - Category 4 <70 w/o cc	0	0	1	1	1										
+C37	"Mouth, Head, Neck or Ear Diagnoses - Category 4 <70 w/o cc"	0	0				1									
+C37	"Complex Major Head, Neck or Ear Diagnoses <70 w/o cc"	0	0					1	1	1	1	1	1	1	1	1
+C41	Ear Procedures - Category 5	0	0	1	1	1	1									
+C41	Complex Major Ear Procedures	0	0					1	1	1	1	1	1	1	1	1
+C42	Nose Procedures - Category 5	0	0	1	1	1	1									
+C42	Complex Major Nose Procedures	0	0					1	1	1	1	1	1	1	1	1
+C43	Mouth or Throat Procedures - Category 5 >69 or w cc	0	0	1	1	1	1									
+C44	Mouth or Throat Procedures - Category 5 <70 w/o cc	0	0	1	1	1	1									
+C45	ENT Bone Procedures - Category 5	0	0	1	1	1	1									
+C45	ENT Complex Major Maxillo-facial Procedures	0	0					1	1	1	1	1	1	1	1	1
+C54	Mouth or Throat Procedures - Category 6	0	0	1	1	1	1									
+C54	Complex Major Mouth or Throat Procedures	0	0					1	1	1	1	1	1	1	1	1
+C55	Minor Ear Procedures	0	0					1	1	1	1	1	1	1	1	1
+C56	Minor Nose Procedures	0	0					1	1	1	1	1	1	1	1	1
+C57	Major Mouth or Throat Procedures	0	0					1	1	1	1	1	1	1	1	1
+C58	Intermediate Mouth or Throat Procedures	0	0					1	1	1	1	1	1	1	1	1
+C59	Exteriorisation of Trachea	0	0					1	1	1	1	1	1	1	1	1
+C60	Cochlea Implants	0	0					1	1	1	1	1	1	1	1	1
+C98	Chemotherapy with a Mouth Head Neck or Ear Primary Diagnosis	0	0	1	1	1										
+C98	"Chemotherapy with a Mouth, Head, Neck or Ear Primary Diagnosis"	0	0				1	1	1	1	1	1	1	1	1	1
+C99	Complex Elderly with a Mouth Head Neck or Ear Primary Diagnosis	0	0	1	1	1										
+C99	"Complex Elderly with a Mouth, Head, Neck or Ear Primary Diagnosis"	0	0				1	1	1	1	1	1	1	1	1	1
+D01	Lung Transplant	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+D02	Complex Thoracic Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+D03	Major Thoracic Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+D04	Intermediate Thoracic Procedures w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+D05	Intermediate Thoracic Procedures w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+D06	Minor Thoracic Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+D07	Fibreoptic Bronchoscopy	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+D08	Rigid Bronchoscopy	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+D09	Pulmonary Embolus - Died	0	0	1	1	1	1									
+D10	Pulmonary Embolus >69 or w cc	0	0	1	1	1	1									
+D10	Pulmonary Embolis w cc	0	0					1	1	1	1	1	1	1	1	1
+D11	Pulmonary Embolus <70 w/o cc	0	0	1	1	1	1									
+D11	Pulmonary Embolis w/o cc	0	0					1	1	1	1	1	1	1	1	1
+D12	Lung Abscess-Empyema	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+D13	Lobar Atypical or Viral Pneumonia >69 or w cc	0	0	1	1	1										
+D13	"Lobar, Atypical or Viral Pneumonia >69 or w cc"	0	0				1									
+D13	"Lobar, Atypical or Viral Pneumonia w cc"	0	0					1	1	1	1	1	1	1	1	1
+D14	Lobar Atypical or Viral Pneumonia <70 w/o cc	0	0	1	1	1										
+D14	"Lobar, Atypical or Viral Pneumonia <70 w/o cc"	0	0				1									
+D14	"Lobar, Atypical or Viral Pneumonia w/o cc"	0	0					1	1	1	1	1	1	1	1	1
+D15	Bronchopneumonia	0	0	1	1	1	1									
+D16	Bronchiectasis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+D17	Cystic Fibrosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+D18	Pulmonary or Pleural Tuberculosis	0	0	1	1	1	1									
+D18	"Pulmonary, Pleural or Other Tuberculosis"	0	0					1	1	1	1	1	1	1	1	1
+D19	Other Tuberculosis	0	0	1	1	1	1									
+D20	Chronic Obstructive Pulmonary Disease or Bronchitis	0	0	1	1	1	1									
+D21	Asthma >49 or w cc	0	0	1	1	1	1									
+D21	Asthma w cc	0	0					1	1	1	1	1	1	1	1	1
+D22	Asthma <50 w/o cc	0	0	1	1	1	1									
+D22	Asthma w/o cc	0	0					1	1	1	1	1	1	1	1	1
+D23	Pleural Effusion or Pleurisy >69 or w cc	0	0	1	1	1	1									
+D23	Pleural Effusion w cc	0	0					1	1	1	1	1	1	1	1	1
+D24	Pleural Effusion or Pleurisy <70 w/o cc	0	0	1	1	1	1									
+D24	Pleural Effusion w/o cc	0	0					1	1	1	1	1	1	1	1	1
+D25	Respiratory Neoplasms	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+D26	Fibrosis or Pneumoconiosis	0	0	1	1	1	1									
+D27	Extrinsic Allergic Alveolitis or Pulmonary Eosinophilia	0	0	1	1	1	1									
+D28	Granulomatous or Other Lung Disease	0	0	1	1	1	1									
+D29	Inhalation Lung Injury or Foreign Body Aspiration	0	0	1	1	1	1									
+D30	Pneumothorax	0	0	1	1	1	1									
+D31	Sleep Disordered Breathing	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+D32	Respiratory Failure	0	0	1	1	1	1									
+D33	Other Respiratory Diagnoses >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+D34	Other Respiratory Diagnoses <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+D37	Pulmonary Oedema	0	0					1	1	1	1	1	1	1	1	1
+D39	Chronic Obstructive Pulmonary Disease or Bronchitis w cc	0	0					1	1	1	1	1	1	1	1	1
+D40	Chronic Obstructive Pulmonary Disease or Bronchitis w/o cc	0	0					1	1	1	1	1	1	1	1	1
+D41	Unspecified Acute Lower Respiratory Infection	0	0					1	1	1	1	1	1	1	1	1
+D42	Bronchopneumonia w cc	0	0					1	1	1	1	1	1	1	1	1
+D43	Bronchopneumonia w/o cc	0	0					1	1	1	1	1	1	1	1	1
+D44	Inhalation Lung Injury or Foreign Body  w cc	0	0					1	1	1	1	1	1	1	1	1
+D45	Inhalation Lung Injury or Foreign Body  w/o cc	0	0					1	1	1	1	1	1	1	1	1
+D46	Fibrosis or Pneumoconiosis w cc	0	0					1	1	1	1	1	1	1	1	1
+D47	Fibrosis or Pneumoconiosis w/o cc	0	0					1	1	1	1	1	1	1	1	1
+D48	Pneumothorax w cc	0	0					1	1	1	1	1	1	1	1	1
+D49	Pneumothorax w/o cc	0	0					1	1	1	1	1	1	1	1	1
+D50	Respiratory Failure w cc	0	0					1	1	1	1	1	1	1	1	1
+D51	Respiratory Failure w/o cc	0	0					1	1	1	1	1	1	1	1	1
+D52	Plurisy	0	0					1	1	1	1	1	1	1	1	1
+D53	"Granulomatous, Allergic Alveolitis or Autoamune Lung Disease"	0	0					1	1	1	1	1	1	1	1	1
+D98	Chemotherapy with a Respiratory System Primary Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+D99	Complex Elderly with a Respiratory System Primary Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E01	Heart and Lung Transplant	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E02	Heart Transplant	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E03	Cardiac Valve Procedures	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E04	Coronary Bypass	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E05	Other Cardiothoracic Procedures with Cardiopulmonary Support	1	0	1	1	1	1									
+E06	Other Cardiothoracic Procedures without Cardiopulmonary Support	1	0	1	1	1	1									
+E07	Pacemaker Implant for AMI Heart Failure or Shock	1	0	1	1	1										
+E07	"Pacemaker Implant for AMI, Heart Failure or Shock"	1	0				1	1	1	1	1	1	1	1	1	1
+E08	Pacemaker Implant except for AMI Heart Failure or Shock	1	0	1	1	1										
+E08	"Pacemaker Implant except for AMI, Heart Failure or Shock"	1	0				1	1	1	1	1	1	1	1	1	1
+E09	Cardiac Pacemaker Replacement/Revision	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E10	Other Circulatory Procedures	1	0	1	1	1	1									
+E11	Acute Myocardial Infarction w cc	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E12	Acute Myocardial Infarction w/o cc	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E13	Cardiac Catheterisation with Complications	1	1	1	1	1	1									
+E13	Cardiac Catheterisation and Angiography with complications	1	1					1	1	1	1	1	1	1	1	1
+E14	Cardiac Catheterisation without Complications	1	0	1	1	1	1									
+E14	Cardiac Catheterisation and Angiography without complications	1	0					1	1	1	1	1	1	1	1	1
+E15	Percutaneous Transluminal Coronary Angioplasty (PTCA)	1	0	1	1	1	1									
+E15	Percutaneous Coronary Intervention	1	0					1	1	1	1	1	1	1	1	1
+E16	Other Percutaneous Cardiac Procedures	1	0	1	1	1	1									
+E17	Endocarditis	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E18	Heart Failure or Shock >69 or w cc	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E19	Heart Failure or Shock <70 w/o cc	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E20	Deep Vein Thrombosis >69 or w cc	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E21	Deep Vein Thrombosis <70 w/o cc	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E22	Coronary Atherosclerosis >69 or w cc	1	0	1	1	1	1									
+E22	Ischaemic Heart Disease without intervention >69 or w cc	1	0					1	1	1	1	1	1	1	1	1
+E23	Coronary Atherosclerosis <70 w/o cc	1	0	1	1	1	1									
+E23	Ischaemic Heart Disease without intervention <70 w/o cc	1	0					1	1	1	1	1	1	1	1	1
+E24	Hypertension >69 or w cc	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E25	Hypertension <70 w/o cc	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E26	Congenital or Valvular Disorders >69 or w cc	1	0	1	1	1	1									
+E27	Congenital or Valvular Disorders <70 w/o cc	1	0	1	1	1	1									
+E28	Cardiac Arrest	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E29	Arrhythmia or Conduction Disorders >69 or w cc	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E30	Arrhythmia or Conduction Disorders <70 w/o cc	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E31	Syncope or Collapse >69 or w cc	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E32	Syncope or Collapse <70 w/o cc	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E33	Angina >69 or w cc	1	0	1	1	1	1									
+E34	Angina <70 w/o cc	1	0	1	1	1	1									
+E35	Chest Pain >69 or w cc	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E36	Chest Pain <70 w/o cc	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E37	Other Cardiac Diagnoses	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+E38	Electrophysiological and other Percutaneous Cardiac Procedures >18	1	0			1		1	1	1	1	1	1	1	1	1
+E39	Electrophysiological and other Percutaneous Cardiac Procedures <19	1	0					1	1	1	1	1	1	1	1	1
+E40	Other Cardiothoracic or Circulatory Procedures >18	1	0					1	1	1	1	1	1	1	1	1
+E41	Other Cardiothoracic or Circulatory Procedures <19	1	0					1	1	1	1	1	1	1	1	1
+E42	Valve Disorders	1	0					1	1	1	1	1	1	1	1	1
+E43	Congenital Disorders	1	0					1	1	1	1	1	1	1	1	1
+E99	Complex Elderly with a Cardiac Primary Diagnosis	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F01	Oesophagus - Complex Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F02	Oesophagus - Very Major Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F03	Oesophagus - Major Procedures or Prostheses	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F04	Oesophagus - Therapeutic Endoscopic or Intermediate Procs. w cc	0	0	1	1	1										
+F04	Oesophagus - Therapeutic Endoscopic or Intermediate Procedures w cc	0	0				1									
+F04	Therapeutic endoscopic procedures	0	0					1	1	1	1	1	1	1	1	1
+F05	Oesophagus - Therapeutic Endoscopic or Intermediate Procs. w/o cc	0	0	1	1	1										
+F05	Oesophagus - Therapeutic Endoscopic or Intermediate Procedures w/o cc	0	0				1									
+F06	Oesophagus - Diagnostic Procedures	0	0	1	1	1	1									
+F06	"Diagnostic Procedures, Oesophagus and Stomach"	0	0					1	1	1	1	1	1	1	1	1
+F07	Disorders of the Oesophagus >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F08	Disorders of the Oesophagus <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F11	Stomach or Duodenum - Complex Procedures	0	0	1	1	1	1									
+F12	Stomach or Duodenum - Very Major Procedures	0	0	1	1	1	1									
+F12	Stomach or Duodenum Very Major Procedures	0	0					1	1	1	1	1	1	1	1	1
+F13	Stomach or Duodenum - Major Procedures >49 or w cc	0	0	1	1	1	1									
+F13	Stomach or Duodenum - Major Procedures >69 or w cc	0	0					1	1	1	1	1	1	1	1	1
+F14	Stomach or Duodenum - Major Procedures <50 w/o cc	0	0	1	1	1	1									
+F14	Stomach or Duodenum - Major Procedures <70 or w/o cc	0	0					1	1	1	1	1	1	1	1	1
+F15	Stomach or Duodenum - Therapeutic Endoscopic or Intermediate Proc.	0	0	1	1	1										
+F15	Stomach or Duodenum - Therapeutic Endoscopic or Intermediate Procedures	0	0				1	1	1	1	1	1	1	1	1	1
+F16	Stomach or Duodenum - Diagnostic Procedures	0	0	1	1	1	1									
+F17	Stomach or Duodenum Disorders >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F18	Stomach or Duodenum Disorders <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F21	Small Intestine - Very Major Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F22	Small Intestine - Major Procedures >49 or w cc	0	0	1	1	1	1									
+F22	Small Intestine - Major Procedures >69 or w cc	0	0					1	1	1	1	1	1	1	1	1
+F23	Small Intestine - Major Procedures <50 w/o cc	0	0	1	1	1	1									
+F23	Small Intestine - Major Procedures <70 w/o cc	0	0					1	1	1	1	1	1	1	1	1
+F24	Small Intestinal Disorders (excluding IBD)	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F31	Large Intestine - Complex Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F32	Large Intestine - Very Major Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F33	Large Intestine - Major Procedures w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F34	Large Intestine - Major Procedures w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F35	Large Intestine - Endoscopic or Intermediate Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F36	Large Intestinal Disorders >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F37	Large Intestinal Disorders <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F41	General Abdominal - Very Major or Major Procedures >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F42	General Abdominal - Very Major or Major Procedures <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F43	General Abdominal - Endoscopic or Intermediate Procs. >69 or w cc	0	0	1	1	1										
+F43	General Abdominal - Endoscopic or Intermediate Procedures >69 or w cc	0	0				1	1	1	1	1	1	1	1	1	1
+F44	General Abdominal - Endoscopic or Intermediate Procs. <70 w/o cc	0	0	1	1	1										
+F44	General Abdominal - Endoscopic or Intermediate Procedures <70 w/o cc	0	0				1	1	1	1	1	1	1	1	1	1
+F45	General Abdominal - Diagnostic Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F46	General Abdominal Disorders >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F47	General Abdominal Disorders <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F48	Intestinal Infectious Disorders >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F49	Intestinal Infectious Disorders <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F51	Inflammatory Bowel Disease - Complex Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F52	Inflammatory Bowel Disease - Major Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F53	Inflammatory Bowel Dis. - Endo. or Intermediate Procs. >69 or w cc	0	0	1	1	1										
+F53	Inflammatory Bowel Disease - Endoscopic or Intermediate Procedures >69 or w cc	0	0				1	1	1	1	1	1	1	1	1	1
+F54	Inflammatory Bowel Dis. - Endo. or Intermediate Procs. <70 w/o cc	0	0	1	1	1										
+F54	Inflammatory Bowel Disease - Endoscopic or Intermediate Procedures <70 w/o cc	0	0				1	1	1	1	1	1	1	1	1	1
+F55	Inflammatory Bowel Disease >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F56	Inflammatory Bowel Disease <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F61	Gastrointestinal Bleed - Very Major Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F62	Gastrointestinal Bleed - Major or Therapeutic Endoscopic Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F63	Gastrointestinal Bleed - Diagnostic Endoscopic or Intermediate Procs.	0	0	1	1	1										
+F63	Gastrointestinal Bleed - Diagnostic Endoscopic or Intermediate Procedures	0	0				1	1	1	1	1	1	1	1	1	1
+F64	Gastrointestinal Bleed >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F65	Gastrointestinal Bleed <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F71	Abdominal Hernia Procedures >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F72	Abdominal Hernia Procedures <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F73	Inguinal Umbilical or Femoral Hernia Repairs >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F74	Inguinal Umbilical or Femoral Hernia Repairs <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F75	Herniotomy Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F76	Hernia Disorders >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F77	Hernia Disorders <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F81	Appendicectomy Procedures >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F82	Appendicectomy Procedures <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F83	Appendix Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F91	Anus - Major Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F92	Anus - Intermediate Procedures >49 or w cc	0	0	1	1	1	1									
+F92	Anus - Intermediate Procedures >69 or w cc	0	0					1	1	1	1	1	1	1	1	1
+F93	Anus - Intermediate Procedures <50 w/o cc	0	0	1	1	1	1									
+F93	Anus - Intermediate Procedures <70 w/o cc	0	0					1	1	1	1	1	1	1	1	1
+F94	Anus - Minor Procedures >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F95	Anus - Minor Procedures <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F96	Anal Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F98	Chemotherapy with a Digestive System Primary Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+F99	Complex Elderly with Digestive System Primary Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G01	Liver Transplant	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G02	Liver - Complex Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G03	Liver - Very Major Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G04	Liver - Major Procedures >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G05	Liver - Major Procedures <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G06	Acute Liver Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G07	Chronic Liver Disorders >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G08	Chronic Liver Disorders <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G11	Biliary Tract - Complex Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G12	Biliary Tract - Very Major Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G13	Biliary Tract - Major Procedures >69 or w cc	0	0	1	1	1	1									
+G13	Cholecystectomy >69 or w cc	0	0					1	1	1	1	1	1	1	1	1
+G14	Biliary Tract - Major Procedures <70 w/o cc	0	0	1	1	1	1									
+G14	Cholecystectomy <70 w/o cc	0	0					1	1	1	1	1	1	1	1	1
+G15	Therapeutic Pancreatic or Biliary Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G16	Diagnostic Pancreatic or Biliary Procedures w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G17	Diagnostic Pancreatic or Biliary Procedures w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G18	Biliary Tract Disorders >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G19	Biliary Tract Disorders <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G20	Biliary Tract Neoplasms	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G21	Pancreas - Complex Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G22	Pancreas - Very Major Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G23	Pancreatic Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G24	Chronic Pancreatic Disease >69	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G25	Chronic Pancreatic Disease <70	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+G26	Therapeutic Pancreatic or Billary Procedures with Neoplasms	0	0					1	1	1	1	1	1	1	1	1
+G27	Procedures on the Spleen	0	0					1	1	1	1	1	1	1	1	1
+G98	Chemotherapy with Hepato-Biliary or Pancreatic System Primary Diag.	0	0	1	1	1										
+G98	Chemotherapy with a Hepato-Biliary or Pancreatic System Primary Diagnosis	0	0				1	1	1	1	1	1	1	1	1	1
+G99	Complex Elderly with Hepato-Biliary or Pancreatic Sys. Primary Diag.	0	0	1	1	1										
+G99	Complex Elderly with a Hepato-Biliary or Pancreatic System Primary Diagnosis	0	0				1	1	1	1	1	1	1	1	1	1
+H01	Bilateral Primary Hip Replacement	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H02	Primary Hip Replacement	0	0	1	1	1	1									
+H03	Bilateral Primary Knee Replacement	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H04	Primary Knee Replacement	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H05	Complex Hip or Knee Revisions	0	0	1	1	1	1									
+H06	Revisional Procedures to Hips or Knees	0	0	1	1	1	1									
+H07	Primary or Revisional Shoulder Elbow or Ankle Replacements	0	0	1	1	1										
+H07	"Primary or Revisional Shoulder, Elbow, or Ankle Replacements"	0	0				1	1	1	1	1	1	1	1	1	1
+H08	Joint Replacements or Revisions Site Unspecified	0	0	1	1	1										
+H08	"Joint Replacements or Revisions, Site Unspecified"	0	0				1	1	1	1	1	1	1	1	1	1
+H09	Anterior Cruciate Ligament Reconstruction	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H10	Arthroscopies	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H11	Foot Procedures - Category 1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H12	Foot Procedures - Category 2	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H13	Hand Procedures - Category 1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H14	Hand Procedures - Category 2	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H15	Hand Procedures - Category 3	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H16	Soft Tissue or Other Bone Procedures - Category 1 >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H17	Soft Tissue or Other Bone Procedures - Category 1 <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H18	Soft Tissue or Other Bone Procedures - Category 2 >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H19	Soft Tissue or Other Bone Procedures - Category 2 <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H20	Muscle Tendon or Ligament Procedures - Category 1	0	0	1	1	1										
+H20	"Muscle, Tendon or Ligament Procedures - Category 1"	0	0				1	1	1	1	1	1	1	1	1	1
+H21	Muscle Tendon or Ligament Procedures - Category 2	0	0	1	1	1										
+H21	"Muscle, Tendon or Ligament Procedures - Category 2"	0	0				1	1	1	1	1	1	1	1	1	1
+H22	Minor Procedures to the Musculoskeletal System	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H23	Soft Tissue Disorders >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H24	Soft Tissue Disorders <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H25	Inflammatory Spine Joint or Connective Tissue Disorders >69 or w cc	0	0	1	1	1										
+H25	"Inflammatory Spine, Joint or Connective Tissue Disorders >69 or w cc"	0	0				1	1	1	1	1	1	1	1	1	1
+H26	Inflammatory Spine Joint or Connective Tissue Disorders <70 w/o cc	0	0	1	1	1										
+H26	"Inflammatory Spine, Joint or Connective Tissue Disorders <70 w/o cc"	0	0				1	1	1	1	1	1	1	1	1	1
+H27	Non-Inflammatory Back Bone or Joint Disorders >69 or w cc	0	0	1	1	1										
+H27	"Non-Inflammatory Back, Bone, or Joint Disorders >69 or w cc"	0	0				1									
+H27	Non-Inflammatory Bone or Joint Disorders >69 or w cc	0	0					1	1	1	1	1	1	1	1	1
+H28	Non-Inflammatory Back Bone or Joint Disorders <70 w/o cc	0	0	1	1	1										
+H28	"Non-Inflammatory Back, Bone, or Joint Disorders <70 w/o cc"	0	0				1									
+H28	Non-Inflammatory Bone or Joint Disorders <70 w/o cc	0	0					1	1	1	1	1	1	1	1	1
+H29	Congenital Hip Dislocation with Open Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H30	Infections of Bones or Joints	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H31	Musculoskeletal Signs and Symptoms >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H32	Musculoskeletal Signs and Symptoms <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H33	Neck of Femur Fracture >69 or w cc	0	0	1	1	1	1									
+H34	Neck of Femur Fracture <70 w/o cc	0	0	1	1	1	1									
+H35	Open Lower Limb Fractures or Dislocations	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H36	Closed Pelvis or Lower Limb Fractures >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H37	Closed Pelvis or Lower Limb Fractures <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H38	Open Upper Limb Fractures or Dislocations	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H39	Closed Upper Limb Fractures or Dislocations >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H40	Closed Upper Limb Fractures or Dislocations <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H41	Sprains Strains or Minor Open Wounds >69 or w cc	0	0	1	1	1										
+H41	"Sprains, Strains, or Minor Open Wounds >69 or w cc"	0	0				1	1	1	1	1	1	1	1	1	1
+H42	Sprains Strains or Minor Open Wounds <70 w/o cc	0	0	1	1	1										
+H42	"Sprains, Strains, or Minor Open Wounds <70 w/o cc"	0	0				1	1	1	1	1	1	1	1	1	1
+H43	Major Cranial Visceral or Blood Vessel Injury >69 or w cc	0	0	1	1	1										
+H43	"Major Cranial, Visceral or Blood Vessel Injury >69 or w cc"	0	0				1	1	1	1	1	1	1	1	1	1
+H44	Major Cranial Visceral or Blood Vessel Injury <70 w/o cc	0	0	1	1	1										
+H44	"Major Cranial, Visceral or Blood Vessel Injury <70 w/o cc"	0	0				1	1	1	1	1	1	1	1	1	1
+H45	Minor Fractures or Dislocations	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H46	Brachial or Lumbar Plexus Injury or Complex Traumatic Amputations	0	0	1	1	1										
+H46	"Brachial or Lumbar Plexus Injury, or Complex Traumatic Amputations"	0	0				1									
+H47	Traumatic Amputations	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H48	Other Wounds or Injuries	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H49	Multiple Injury >69	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H50	Multiple Injury <70	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H51	Removal of Fixation Device >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H52	Removal of Fixation Device <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H53	Path. Fractures or Malig. of Bone and Connective Tiss. >69 or w cc	0	0	1	1	1										
+H53	Pathological Fractures or Malignancy of Bone and Connective Tissue >69 or w cc	0	0				1	1	1	1	1	1	1	1	1	1
+H54	Path. Fractures or Malig. of Bone and Connective Tissue <70 w/o cc	0	0	1	1	1										
+H54	Pathological Fractures or Malignancy of Bone and Connective Tissue <70 w/o cc	0	0				1	1	1	1	1	1	1	1	1	1
+H63	Head Injury >69 or w cc	0	0					1	1	1	1	1	1	1	1	1
+H64	Head Injury <70 w/o cc	0	0					1	1	1	1	1	1	1	1	1
+H70	Resurfacing of Hip	0	0					1	1	1	1	1	1	1	1	1
+H71	Revisional Procedures to Hips	0	0					1	1	1	1	1	1	1	1	1
+H72	Revisional Procedures to Knees	0	0					1	1	1	1	1	1	1	1	1
+H80	Primary Hip Replacement Cemented	0	0					1	1	1	1	1	1	1	1	1
+H81	Primary Hip Replacement Uncemented	0	0					1	1	1	1	1	1	1	1	1
+H82	Extracapsular Neck of Femur Fracture with Fixation w cc	0	0					1	1	1	1	1	1	1	1	1
+H83	Extracapsular Neck of Femur Fracture with Fixation w/o cc	0	0					1	1	1	1	1	1	1	1	1
+H84	Intracapsular Neck of Femur Fracture with Fixation w cc	0	0					1	1	1	1	1	1	1	1	1
+H85	Intracapsular Neck of Femur Fracture with Fixation w/o cc	0	0					1	1	1	1	1	1	1	1	1
+H86	Neck of Femur Fracture with Hip Replacement w cc	0	0					1	1	1	1	1	1	1	1	1
+H87	Neck of Femur Fracture with Hip Replacement w/o cc	0	0					1	1	1	1	1	1	1	1	1
+H88	Other Neck of Femur Fracture w cc	0	0					1	1	1	1	1	1	1	1	1
+H89	Other Neck of Femur Fracture w/o cc	0	0					1	1	1	1	1	1	1	1	1
+H98	Chemotherapy with a Musculoskeletal System Primary Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+H99	Complex Elderly with a Musculoskeletal System Primary Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J01	Complex Breast Reconstruction using Flaps	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J02	Major Breast Surgery including Plastic Procedures >49 or w cc	0	0	1	1	1	1									
+J03	Major Breast Surgery including Plastic Procedures <50 w/o cc	0	0	1	1	1	1									
+J04	Intermediate Breast Surgery >49 or w cc	0	0	1	1	1	1									
+J04	Intermediate Breast Surgery w cc	0	0					1	1	1	1	1	1	1	1	1
+J05	Intermediate Breast Surgery <50 w/o cc	0	0	1	1	1	1									
+J05	Intermediate Breast Surgery w/o cc	0	0					1	1	1	1	1	1	1	1	1
+J06	Minor Breast Surgery >69 or w cc	0	0	1	1	1	1									
+J06	Minor Breast Surgery w cc	0	0					1	1	1	1	1	1	1	1	1
+J07	Minor Breast Surgery <70 w/o cc	0	0	1	1	1	1									
+J07	Minor Breast Surgery w/o cc	0	0					1	1	1	1	1	1	1	1	1
+J08	Non-Malignant Breast Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J09	Malignant Breast Disorders >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J10	Malignant Breast Disorders <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J11	Lymph Dissection Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J12	Soft Tissue Procedures	0	0	1	1	1	1									
+J12	Drainage of Ascites	0	0					1	1	1	1	1	1	1	1	1
+J13	Major Burn >19% TBSA without Significant Graft Procedure >69	0	0	1												
+J13	Major Burn>29% TBSA without Significant Graft Procedure >49	0	0		1	1										
+J13	Major Burn >29% TBSA without Significant Graft Procedure >49	0	0				1	1	1	1	1	1	1	1	1	1
+J14	Major Burn >19% TBSA without Significant Graft Procedure >16 <70	0	0	1												
+J14	Major Burn>29% TBSA without Significant Graft Procedure >16 <50	0	0		1	1										
+J14	Major Burn >29% TBSA without Significant Graft Procedure >16 <50	0	0				1									
+J14	Major Burn >29% TBSA without Significant Graft Procedure >18 <50	0	0					1	1	1	1	1	1	1	1	1
+J15	Major Burn >19% TBSA without Significant Graft Procedure <17	0	0	1												
+J15	Major Burn>29% TBSA without Significant Graft Procedure <17	0	0		1	1										
+J15	Major Burn >29% TBSA without Significant Graft Procedure <17	0	0				1									
+J15	Major Burn >29% TBSA without Significant Graft Procedure <19	0	0					1	1	1	1	1	1	1	1	1
+J16	Major Burn >19% TBSA with Significant Graft Procedure >69	0	0	1												
+J16	Major Burn>29% TBSA with Significant Graft Procedure >49	0	0		1	1										
+J16	Major Burn >29% TBSA with Significant Graft Procedure >49	0	0				1	1	1	1	1	1	1	1	1	1
+J17	Major Burn >19% TBSA with Significant Graft Procedure >16 <70	0	0	1												
+J17	Major Burn>29% TBSA with Significant Graft Procedure >16 <50	0	0		1	1										
+J17	Major Burn >29% TBSA with Significant Graft Procedure >16 <50	0	0				1									
+J17	Major Burn >29% TBSA with Significant Graft Procedure >18 <50	0	0					1	1	1	1	1	1	1	1	1
+J18	Major Burn >19% TBSA with Significant Graft Procedure <17	0	0	1	1	1										
+J18	Major Burn >29% TBSA with Significant Graft Procedure <17	0	0				1									
+J18	Major Burn >29% TBSA with Significant Graft Procedure <19	0	0					1	1	1	1	1	1	1	1	1
+J19	Other Burn with Inhalation Injury	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J20	Other Burn with 1 Significant Graft Procedure >69	0	0	1												
+J20	Other Burn with 1 Significant Graft Procedure >49	0	0		1	1	1	1	1	1	1	1	1	1	1	1
+J21	Other Burn with 1 Significant Graft Procedure >16 <70	0	0	1												
+J21	Other Burn with 1 Significant Graft Procedure >16 <50	0	0		1	1	1									
+J21	Other Burn with 1 Significant Graft Procedure >18 <50	0	0					1	1	1	1	1	1	1	1	1
+J22	Other Burn with 1 Significant Graft Procedure <17	0	0	1	1	1	1									
+J22	Other Burn with 1 Significant Graft Procedure <19	0	0					1	1	1	1	1	1	1	1	1
+J23	Other Burn with Multiple Significant Graft Procedures >69	0	0	1												
+J23	Other Burn with Multiple Significant Graft Procedures >49	0	0		1	1	1	1	1	1	1	1	1	1	1	1
+J24	Other Burn with Multiple Significant Graft Procedures >16 <70	0	0	1												
+J24	Other Burn with Multiple Significant Graft Procedures >16 <50	0	0		1	1	1									
+J24	Other Burn with Multiple Significant Graft Procedures >18 <50	0	0					1	1	1	1	1	1	1	1	1
+J25	Other Burn with Multiple Significant Graft Procedures <17	0	0	1	1	1	1									
+J25	Other Burn with Multiple Significant Graft Procedures <19	0	0					1	1	1	1	1	1	1	1	1
+J26	Other Burn without Significant Graft Procedure >69	0	0	1												
+J26	Other Burn without Significant Graft Procedure >49	0	0		1	1	1	1	1	1	1	1	1	1	1	1
+J27	Other Burn without Significant Graft Procedure >16 <70	0	0	1												
+J27	Other Burn without Significant Graft Procedure >16 <50	0	0		1	1	1									
+J27	Other Burn without Significant Graft Procedure >18 <50	0	0					1	1	1	1	1	1	1	1	1
+J28	Other Burn without Significant Graft Procedure <17	0	0	1	1	1	1									
+J28	Other Burn without Significant Graft Procedure <19	0	0					1	1	1	1	1	1	1	1	1
+J29	Major Reconstructive Surgery	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J30	Major Skin Procedures >49 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J31	Major Skin Procedures <50 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J32	Intermediate Skin Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J33	Minor Skin Procedures - Category 3	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J34	Minor Skin Procedures - Category 2 w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J35	Minor Skin Procedures - Category 2 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J36	Minor Skin Procedures - Category 1 w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J37	Minor Skin Procedures - Category 1 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J38	Skin Ulcers	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J39	Major Dermatological Conditions >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J40	Major Dermatological Conditions <70 w/o cc 	0	0	1	1	1	1									
+J40	Major Dermatological Conditions <70 w/o cc	0	0					1	1	1	1	1	1	1	1	1
+J41	Major Skin Infections >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J42	Major Skin Infections <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J43	Major Skin Tumours	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J44	Minor Dermatological Conditions or Benign Tumours	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J45	Minor Skin Infections	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+J46	Total Mastectomy w cc	0	0					1	1	1	1	1	1	1	1	1
+J47	Total Mastectomy w/o cc	0	0					1	1	1	1	1	1	1	1	1
+J48	Partial/Subtotal Mastectomy w cc	0	0					1	1	1	1	1	1	1	1	1
+J49	Partial/Subtotal Mastectomy w/o cc	0	0					1	1	1	1	1	1	1	1	1
+J50	Other Major Breast Surgery	0	0					1	1	1	1	1	1	1	1	1
+J98	Chemotherapy with a Skin Breast or Burn Primary Diagnosis	0	0	1	1	1										
+J98	"Chemotherapy with a Skin, Breast or Burn Primary Diagnosis"	0	0				1	1	1	1	1	1	1	1	1	1
+J99	Complex Elderly with a Skin Breast or Burn Primary Diagnosis	0	0	1	1	1										
+J99	"Complex Elderly with a Skin, Breast or Burn Primary Diagnosis"	0	0				1	1	1	1	1	1	1	1	1	1
+K01	Thyroid Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+K02	Parathyroid Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+K03	Adrenal Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+K04	Anterior Pituitary Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+K05	Other Endocrine Disorders >69 or w cc	0	0	1	1	1	1									
+K06	Other Endocrine Disorders <70 w/o cc	0	0	1	1	1	1									
+K07	Fluid or Electrolyte Disorders >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+K08	Fluid or Electrolyte Disorders <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+K09	Disorders of Nutrition	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+K10	Inborn Errors of Metabolism	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+K11	Diabetes with Hypoglycaemic Emergency >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+K12	Diabetes with Hypoglycaemic Emergency <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+K13	Diabetes with Hyperglycaemic Emergency >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+K14	Diabetes with Hyperglycaemic Emergency <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+K15	Diabetes and Other Hyperglycaemic Disorder >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+K16	Diabetes and Other Hyperglycaemic Disorder <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+K17	Diabetes with Lower Limb Complications	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+K18	Non Pituaritary Endocrine Neoplasms >69 or w cc	0	0					1	1	1	1	1	1	1	1	1
+K19	Non Pituaritary Endocrine Neoplasms <70 w/o cc	0	0					1	1	1	1	1	1	1	1	1
+K20	Non Surgical Thyroid Disorders >69 or w cc	0	0					1	1	1	1	1	1	1	1	1
+K21	Non Surgical Thyroid Disorders <70 w/o cc	0	0					1	1	1	1	1	1	1	1	1
+K22	Other Endocrine Disorders >69 or w cc	0	0					1	1	1	1	1	1	1	1	1
+K23	Other Endocrine Disorders < 70 w/o cc	0	0					1	1	1	1	1	1	1	1	1
+K98	Chemotherapy with an Endocrine or Metabolic System Primary Diag.	0	0	1	1	1										
+K98	Chemotherapy with an Endocrine or Metabolic System Primary Diagnosis	0	0				1	1	1	1	1	1	1	1	1	1
+K99	Complex Elderly with an Endocrine or Metabolic System Primary Diag.	0	0	1	1	1										
+K99	Complex Elderly with an Endocrine or Metabolic System Primary Diagnosis	0	0				1	1	1	1	1	1	1	1	1	1
+L01	Kidney Transplant	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L02	Kidney Major Open Procedure >49 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L03	Kidney Major Open Procedure <50 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L04	Kidney Major Endoscopic Procedure	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L05	Kidney Intermediate Endoscopic Procedure >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L06	Kidney Intermediate Endoscopic Procedure <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L07	Non OR Admission for Kidney or Urinary Tract Neoplasms >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L08	Non OR Admission for Kidney or Urinary Tract Neoplasms <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L09	Kidney or Urinary Tract Infections >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L10	Kidney or Urinary Tract Infections <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L11	Ureter Open Procedure	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L12	Ureter Major Endoscopic Procedure	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L13	Ureter Intermediate Endoscopic Procedure	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L14	Bladder Major Open Procedures or Reconstruction	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L15	Cystectomy or Urinary Diversion excluding Reconstruction	0	0	1	1	1	1									
+L15	Urinary Diversion without Cystectomy	0	0					1	1	1	1	1	1	1	1	1
+L16	Bladder Intermediate Open Procedure	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L17	Bladder Major Endoscopic Procedure	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L18	Bladder Intermediate Endoscopic Procedure w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L19	Bladder Intermediate Endoscopic Procedure w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L20	Bladder Minor Endoscopic Procedure w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L21	Bladder Minor Endoscopic Procedure w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L22	Bladder or Urinary Mechanical Problems >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L23	Bladder or Urinary Mechanical Problems <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L24	Ureteric or Bladder Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L25	Prostate or Bladder Neck Open Proc. (Male and Female) >69 or w cc	0	0	1	1	1										
+L25	Prostate or Bladder Neck Open Procedure (Male and Female) >69 or w cc	0	0				1									
+L25	Bladder Neck Open Procedures Male	0	0					1	1	1	1	1	1	1	1	1
+L26	Prostate or Bladder Neck Open Proc. (Male and Female) <70 w/o cc	0	0	1	1	1										
+L26	Prostate or Bladder Neck Open Procedure (Male and Female) <70 w/o cc	0	0				1									
+L26	Bladder Neck Open Procedures Female	0	0					1	1	1	1	1	1	1	1	1
+L27	Prostate Transurethral Resection Procedure >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L28	Prostate Transurethral Resection Procedure <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L29	Prostate or Bladder Neck Intermediate Endo. Proc. (Male and Female)	0	0	1	1	1										
+L29	Prostate or Bladder Neck Intermediate Endoscopic Procedure (Male and Female)	0	0				1	1	1	1	1	1	1	1	1	1
+L30	Prostate or Bladder Neck Minor Endoscopic Proc. (Male and Female)	0	0	1	1	1										
+L30	Prostate or Bladder Neck Minor Endoscopic Procedure (Male and Female)	0	0				1	1	1	1	1	1	1	1	1	1
+L31	Malignant Prostate Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L32	Non-Malignant Prostate Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L33	Urethra Major Open Procedure	0	0	1	1	1	1									
+L33	Urethra Major Open Procedures	0	0					1	1	1	1	1	1	1	1	1
+L34	Urethra Intermediate or Minor Procedures >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L35	Urethra Intermediate or Minor Procedures <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L36	Urethra Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L37	Penis Major or Intermediate Open Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L38	Penis Minor Open Procedure > 69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L39	Penis Minor Open Procedure <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L40	Penis Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L41	Vasectomy Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L42	Scrotum Testis or Vas Deferens Major Open Procedure >69 or w cc	0	0	1	1	1	1									
+L42	Scrotum Testis or Vas Deferens Open Procedures >69 or w cc	0	0					1	1	1	1	1	1	1	1	1
+L43	Scrotum Testis or Vas Deferens Major Open Procedure <70 w/o cc	0	0	1	1	1	1									
+L43	Scrotum Testis or Vas Deferens Open Procedures <70 w/o cc	0	0					1	1	1	1	1	1	1	1	1
+L44	Scrotum Testis or Vas Deferens Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L45	Extracorporeal Lithotripsy	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L46	Renal Replacement Associated Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L47	Renal Replacement Therapy w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L48	Renal Replacement Therapy w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L49	Acute Renal Failure >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L50	Acute Renal Failure <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L51	Chronic Renal Failure	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L52	Renal General Disorders >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L53	Renal General Disorders <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+L54	Renal Findings >69 or w cc	0	0	1	1	1	1									
+L54	Urinary Tract Findings >69 or w cc	0	0					1	1	1	1	1	1	1	1	1
+L55	Renal Findings <70 w/o cc	0	0	1	1	1	1									
+L55	Urinary Tract Findings <70 w/o cc	0	0					1	1	1	1	1	1	1	1	1
+L66	Urethra Major Open Procedure - paediatric	0	0					1	1	1	1	1	1	1	1	1
+L68	Cystectomy with Urinary Diversion and Reconstruction	0	0					1	1	1	1	1	1	1	1	1
+L69	Urinary Tract Stone Disease	0	0					1	1	1	1	1	1	1	1	1
+L98	Chemotherapy with Urinary Tract or Male Repro. System Primary Diag.	0	0	1	1	1										
+L98	Chemotherapy with a Urinary Tract or Male Reproductive System Primary Diagnosis	0	0				1	1	1	1	1	1	1	1	1	1
+L99	Complex Elderly with a Urinary Tract or Male Repro. Sys. Primary Diag.	0	0	1	1	1										
+L99	Complex Elderly with a Urinary Tract or Male Reproductive System Primary Diagnosis	0	0				1	1	1	1	1	1	1	1	1	1
+M01	Lower Genital Tract Minor Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+M02	Lower Genital Tract Intermediate Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+M03	Lower Genital Tract Major Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+M04	Lower Genital Tract Complex Major Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+M05	Upper Genital Tract Minor Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+M06	Upper Genital Tract Intermediate Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+M07	Upper Genital Tract Major Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+M08	Upper Genital Tract Complex Major Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+M09	Threatened or Spontaneous Abortion	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+M10	Surgical Termination of Pregnancy	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+M11	Medical Termination of Pregnancy	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+M12	Non-Surgical Treatment of Lower Genital Tract Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+M13	Non-Surgical Treatment of Genital Prolapse or Incontinence	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+M14	Non-Surg. Treatment of Fibroids Menstrual Disorders or Endometriosis	0	0	1	1	1										
+M14	"Non-Surgical Treatment of Fibroids, Menstrual Disorders, or Endometriosis"	0	0				1	1	1	1	1	1	1	1	1	1
+M15	Non-Surgical Treatment of Ovary Tube or Pelvis Disorders	0	0	1	1	1										
+M15	"Non-Surgical Treatment of Ovary, Tube, or Pelvis Disorders"	0	0				1	1	1	1	1	1	1	1	1	1
+M16	Non-Surgical Treatment of Gynaecological Malignancy >69 or w cc	0	0	1	1	1	1									
+M16	Non-Surgical Treatment of Gynaecological Malignancy w cc	0	0					1	1	1	1	1	1	1	1	1
+M17	Non-Surgical Treatment of Gynaecological Malignancy <70 w/o cc	0	0	1	1	1	1									
+M17	Non-Surgical Treatment of Gynaecological Malignancy w/o cc	0	0					1	1	1	1	1	1	1	1	1
+M18	Non-Surgical Treatment of Other Gynaecological Conditions	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+M19	Gynaecological Radiotherapy	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+M98	Chemotherapy with a Female Reproductive System Primary Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+M99	Complex Elderly with Female Reproductive System Primary Diagnosis	0	0	1	1	1										
+M99	Complex Elderly with a Female Reproductive System Primary Diagnosis	0	0				1	1	1	1	1	1	1	1	1	1
+N01	Neonates - Died <2 days old	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+N02	Neonates with Multiple Minor Diagnoses	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+N03	Neonates with one Minor Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+N04	Neonates with Multiple Major Diagnoses	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+N05	Neonates with one Major Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+N06	Normal Delivery w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+N07	Normal Delivery w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+N08	Assisted Delivery w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+N09	Assisted Delivery w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+N10	Caesarean Section w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+N11	Caesarean Section w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+N12	Other Maternity Events	0	0	1	1	1	1									
+N12	Antenatal Admissions not Related to Delivery Event	0	0					1	1	1	1	1	1	1	1	1
+P01	Asthma or Recurrent Wheeze	0	0	1	1	1	1									
+P01	Asthma or Wheezing	0	0					1	1	1	1	1	1	1	1	1
+P02	Cystic Fibrosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P03	Upper Respiratory Tract Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P04	Lower Respiratory Tract Disorders	0	0	1	1	1	1									
+P04	Lower Respiratory Tract Disorders without Acute Bronchiolitis	0	0					1	1	1	1	1	1	1	1	1
+P05	Major Infections (including Immune Disorders)	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P06	Minor Infections (including Immune Disorders)	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P07	Neoplasms	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P08	Febrile Convulsions	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P09	Major Nervous System Disorders	0	0	1	1	1	1									
+P09	Nervous System Disorders	0	0					1	1	1	1	1	1	1	1	1
+P10	Other Nervous System Disorders	0	0	1	1	1	1									
+P11	Endocrine Disorders (including Diabetes)	0	0	1	1	1	1									
+P11	Endocrine Disorders (excluding Diabetes Mellitus)	0	0					1	1	1	1	1	1	1	1	1
+P12	Major Gastrointestinal or Metabolic Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P13	Other Gastrointestinal or Metabolic Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P14	Ingestion Poisoning or Allergies	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P15	Accidental Injury	0	0	1	1	1	1									
+P15	Accidental Injury without Brain Injury	0	0					1	1	1	1	1	1	1	1	1
+P16	Child Welfare and Protection	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P17	Behavioural Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P18	Psychiatric Disorders	0	0	1	1	1	1									
+P18	Developmental Disorders	0	0					1	1	1	1	1	1	1	1	1
+P19	Major Congenital Conditions	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P20	Other Congenital Conditions	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P21	Renal Disease	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P22	Renal Disease with Renal Failure	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P23	Blood Cell Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P24	Skin Musculoskeletal or Connective Tissue Disorders	0	0	1	1	1										
+P24	"Skin, Musculoskeletal, or Connective Tissue Disorders"	0	0				1	1	1	1	1	1	1	1	1	1
+P25	Cardiac Conditions	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+P26	Infectious and Non-Infectious Gastroenteritis	0	0					1	1	1	1	1	1	1	1	1
+P27	Acute Bronchiolitis	0	0					1	1	1	1	1	1	1	1	1
+P28	Epilepsy Syndrome	0	0					1	1	1	1	1	1	1	1	1
+P29	Diabetes Mellitus	0	0					1	1	1	1	1	1	1	1	1
+P30	Head Injury with Brain Injury	0	0					1	1	1	1	1	1	1	1	1
+P31	Head Injury without Brain Injury	0	0					1	1	1	1	1	1	1	1	1
+P98	Chemotherapy with a Disease of Childhood Primary Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+Q01	Emergency Aortic Surgery	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+Q02	Elective Abdominal Vascular Surgery	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+Q03	Lower Limb Arterial Surgery	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+Q04	Bypasses to Tibial Arteries	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+Q05	Extracranial or Upper Limb Arterial Surgery	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+Q06	Miscellaneous Major Vascular Procedures	0	0	1	1	1	1									
+Q06	Miscellaneous Vascular Procedures	0	0					1	1	1	1	1	1	1	1	1
+Q07	Miscellaneous Intermediate or Minor Vascular Procedures	0	0	1	1	1	1									
+Q08	Procedures on the Spleen	0	0	1	1	1	1									
+Q09	Procedures on the Lymphatic System w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+Q10	Procedures on the Lymphatic System w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+Q11	Varicose Vein Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+Q12	Therapeutic Endovascular Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+Q13	Diagnostic Radiology - Arteries or Lymphatics w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+Q14	Diagnostic Radiology - Arteries or Lymphatics w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+Q15	Amputations	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+Q16	Foot Procs. for Diabetes or Arterial Dis. and Procs. to Amp. Stumps	0	0	1	1	1										
+Q16	"Foot Procedures for Diabetes or Arterial Disease, and Procedures to Amputation Stumps"	0	0				1	1	1	1	1	1	1	1	1	1
+Q17	Peripheral Vascular Disease >69 or w cc	0	0	1	1	1	1									
+Q17	Non-Surgical Peripheral Vascular Disease w cc	0	0					1	1	1	1	1	1	1	1	1
+Q18	Peripheral Vascular Disease <70 w/o cc	0	0	1	1	1	1									
+Q18	Non-Surgical Peripheral Vascular Disease w/o cc	0	0					1	1	1	1	1	1	1	1	1
+Q19	Vascular Access for Renal Replacement Therapy	0	0					1	1	1	1	1	1	1	1	1
+Q98	Chemotherapy with a Vascular System Primary Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+Q99	Complex Elderly with a Vascular System Primary Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R01	Minor Spinal Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R02	Surgery for Degenerative Spinal Disorders	0	0	1	1	1	1									
+R02	Surgery for Prolapsed Intervertebral Disc	0	0					1	1	1	1	1	1	1	1	1
+R03	Spinal Fusion or Decompression Excluding Trauma	0	0	1	1	1	1									
+R03	Decompression and Effusion for Degenerative Spinal Disorders	0	0					1	1	1	1	1	1	1	1	1
+R04	Vertebral Column Injury with Fusion or Decompression	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R05	Vertebral Column Injury without Procedure >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R06	Vertebral Column Injury without Procedure <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R07	Spinal Cord Injury with Fusion or Decompression	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R08	Spinal Cord Injury without Procedure	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R09	Revisional Spinal Procedures	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R10	Surgery for Scoliosis or Other Spinal Deformity	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R11	Spinal Cord Surgery	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R12	Cervical Spinal Disorders >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R13	Cervical Spinal Disorders <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R14	Spinal Tumours	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R15	Thoracic or Lumbar Spinal Disorders >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R16	Thoracic or Lumbar Spinal Disorders <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R17	Non-Traumatic Spinal Cord Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R18	Scoliosis or Other Spinal Deformity	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R19	Intermediate Spinal Procedures	0	0					1	1	1	1	1	1	1	1	1
+R98	Chemotherapy with a Spinal Primary Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+R99	Complex Elderly with a Spinal Primary Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+S01	Haematological Disorders with Minor Procedure	0	0	1	1	1	1									
+S02	Malignant Disorders of Lymphatic or Haematological Systems w cc	0	0	1	1	1	1									
+S03	Malignant Disorders of Lymphatic or Haematological Systems w/o cc	0	0	1	1	1	1									
+S04	Coagulation Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+S05	Red Blood Cell Disorders >69 or w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+S06	Red Blood Cell Disorders <70 w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+S07	Other Haematological or Splenic Disorders w cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+S08	Other Haematological or Splenic Disorders w/o cc	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+S09	Bone Marrow Graft	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+S10	Disorders of Immunity with HIV/AIDS	0	0	1	1	1	1									
+S10	Manifestations of HIV/AIDS	0	0					1	1	1	1	1	1	1	1	1
+S11	Disorders of Immunity without HIV/AIDS	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+S12	Septicaemia	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+S13	Pyrexia of Unknown Origin	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+S14	Other Viral Illness	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+S15	Other Non-Viral Infections	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+S16	Poisoning Toxic Effects or Overdoses	0	0	1	1	1										
+S16	"Poisoning, Toxic Effects, or Overdoses"	0	0				1									
+S16	"Poisoning, Toxic, Environmental and Unspecified Effects"	0	0					1	1	1	1	1	1	1	1	1
+S17	Side Effects of Drugs	0	0	1	1	1	1									
+S18	Environmental Injury	0	0	1	1	1	1									
+S19	Complications of Treatment	0	1	1	1	1	1									
+S19	Complications of Procedures	0	1					1	1	1	1	1	1	1	1	1
+S20	Postoperative infection	0	1	1	1	1	1									
+S21	Convalescent or Other Relief Care	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+S22	Planned Procedures Not Carried Out	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+S23	Rehabilitation	0	0	1	1	1	1									
+S24	Holiday Relief Care	0	0	1	1	1	1									
+S24	Respite Care	0	0					1	1	1	1	1	1	1	1	1
+S25	Other Admissions	0	0	1	1	1	1									
+S26	Shock and Anaphylaxis	0	0					1	1	1	1	1	1	1	1	1
+S27	Malignant Disorder of the Lymphatic/ Haematological  Systems with los <2 days	0	0					1	1	1	1	1	1	1	1	1
+S28	Malignant Disorder of the Lymphatic/ Haematological Systems with los >1 day	0	0			1		1	1	1	1	1	1	1	1	1
+S29	Other Admissions Related to Neoplasms	0	0					1	1	1	1	1	1	1	1	1
+S30	Other Congenital Conditions Persisting in Adulthood	0	0					1	1	1	1	1	1	1	1	1
+S31	Admission for Unexplained Symptons	0	0					1	1	1	1	1	1	1	1	1
+S32	Abnormal Findings without Diagnosis	0	0					1	1	1	1	1	1	1	1	1
+S33	"Examination, Follow up and Special Screening"	0	0					1	1	1	1	1	1	1	1	1
+S34	Other Procedures and Health Care Problems	0	0					1	1	1	1	1	1	1	1	1
+S35	Other Specified Admissions and Counselling	0	0					1	1	1	1	1	1	1	1	1
+S36	Diagnostic Extraction of Bone Marrow	0	0					1	1	1	1	1	1	1	1	1
+S98	Chemothrpy. with Haematology Infs. Dis. Poisoning or NS Primary Diag.	0	0	1	1	1										
+S98	"Chemotherapy with a Haematology, Infectious Disease, Poisoning, or Non-specific Primary Diagnosis"	0	0				1	1	1	1	1	1	1	1	1	1
+S99	Complex Elderly with Haematology Infs. Dis. Poisoning or NS Pri. Diag.	0	0	1	1	1										
+S99	"Complex Elderly with a Haematology, Infectious Disease, Poisoning, or Non-specific Primary Diagnosis"	0	0				1	1	1	1	1	1	1	1	1	1
+T01	Senile Dementia	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+T02	Schizophreniform Psychoses with Section	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+T03	Schizophreniform Psychoses without Section	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+T04	Mania with Section	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+T05	Mania without Section	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+T06	Depression with Section	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+T07	Depression without Section	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+T08	Presenile Dementia	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+T09	Anxiety Syndromes	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+T10	Alcohol or Drugs Non-Dependent Use >16	0	0	1	1	1	1									
+T10	Alcohol or Drugs Non-Dependent Use >18	0	0					1	1	1	1	1	1	1	1	1
+T11	Alcohol or Drugs Non-Dependent Use <17	0	0	1	1	1	1									
+T11	Alcohol or Drugs Non-Dependent Use <19	0	0					1	1	1	1	1	1	1	1	1
+T12	Alcohol or Drugs Dependency	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+T13	Eating Disorders or Obsessive Compulsive Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+T14	Acute Reactions or Personality Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+T15	Childhood Non-Psychotic Disorders	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+T16	Mental Retardation	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+T17	Specific Learning Disabilities	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+U01	Invalid Primary Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+U02	Invalid Dominant Px 	0	0		1	1										
+U02	Invalid Dominant Procedure	0	0				1	1	1	1	1	1	1	1	1	1
+U04	Age Outside Range 0-130	0	0	1	1	1	1		1	1	1	1	1	1	1	1
+U05	Age Conflicting with Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+U07	Poorly Coded Primary Diagnosis	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+U08	Poorly Coded Dominant Procedure	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+U09	Invalid Length of Stay	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1

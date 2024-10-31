@@ -1,0 +1,177 @@
+TRETSPEF_code	TRETSPEF_desc	"Cardiac (0=No, 1=Yes, 2=Ambiguous)"	
+100	General Surgery	0	
+101	Urology	0	
+102	"Transplantation Surgery (Includes Renal And Liver Transplants, Excludes Cardiothoracic Transplantation)"	0	
+103	"Breast Surgery (Includes Suspected Neoplasms, Cysts Etc, Does Not Include Cosmetic Surgery)"	0	
+104	"Colorectal Surgery (Surgical Treatment Of Disorders Of The Lower Intestine - Colon, Anus And Rectum)"	0	
+105	Hepatobiliary & Pancreatic Surgery (Includes Liver Surgery But Excludes Liver Transplantation See Transplantation Surgery)	0	
+106	Upper Gastrointestinal Surgery	0	
+107	Vascular Surgery	0	
+108	Spinal Surgery Service (From April 2013)	0	
+110	Trauma & Orthopaedics	0	
+120	"Ear, Nose And Throat (Ent)"	0	
+130	Ophthalmology	0	
+140	Oral Surgery	0	
+141	"Restorative Dentistry (Endodontics, Periodontics And Prosthodontics)"	0	
+142	Paediatric Dentistry	0	
+143	Orthodontics	0	
+144	Maxillo-Facial Surgery	0	
+150	Neurosurgery	0	
+160	Plastic Surgery	0	
+161	Burns Care (Recognised Specialist Services Only - Includes 'Outreach' Facilities)	0	
+170	Cardiothoracic Surgery (Where There Are No Separate Services For Cardiac And Thoracic Surgery)	1	
+171	Paediatric Surgery	0	
+172	Cardiac Surgery	1	
+173	Thoracic Surgery	0	???
+174	Cardiothoracic Transplantation (Recognised Specialist Services Only - Includes 'Outreach' Facilities)	1	???
+180	Accident & Emergency (A&E)	0	
+190	Anaesthetics	0	
+191	Pain Management (Complex Pain Disorders Requiring Diagnosis And Treatment By A Specialist Multi-Professional Team)	0	
+192	Critical Care Medicine (Also Known As Intensive Care Medicine)	0	???
+199	"Non-Uk Provider - Specialty Function Not Known, Treatment Mainly Surgical"	0	
+211	Paediatric Urology (From 2006-07)	0	
+212	Paediatric Transplantation Surgery (From 2006-07)	0	
+213	Paediatric Gastrointestinal Surgery (From 2006-07)	0	
+214	Paediatric Trauma And Orthopaedics (From 2006-07)	0	
+215	Paediatric Ear Nose And Throat (From 2006-07)	0	
+216	Paediatric Ophthalmology (From 2006-07)	0	
+217	Paediatric Maxillo-Facial Surgery (From 2006-07)	0	
+218	Paediatric Neurosurgery (From 2006-07)	0	
+219	Paediatric Plastic Surgery (From 2006-07)	0	
+220	Paediatric Burns Care (From 2006-07)	0	
+221	Paediatric Cardiac Surgery (From 2006-07)	1	
+222	Paediatric Thoracic Surgery (From 2006-07)	0	
+223	Paediatric Epilepsy (From April 2013)	0	
+241	Paediatric Pain Management (From 2006-07)	0	
+242	Paediatric Intensive Care (From 2006-07)	0	
+251	Paediatric Gastroenterology (From 2006-07)	0	
+252	Paediatric Endocrinology (From 2006-07)	0	
+253	Paediatric Clinical Haematology (From 2006-07)	0	
+254	Paediatric Audiological Medicine (From 2006-07)	0	
+255	Paediatric Clinical Immunology And Allergy (From 2006-07)	0	
+256	Paediatric Infectious Diseases (From 2006-07)	0	
+257	Paediatric Dermatology (From 2006-07)	0	
+258	Paediatric Respiratory Medicine (From 2006-07)	0	
+259	Paediatric Nephrology (From 2006-07)	0	
+260	Paediatric Medical Oncology (From 2006-07)	0	
+261	Paediatric Metabolic Disease (From 2006-07)	0	
+262	Paediatric Rheumatology (From 2006-07)	0	
+263	Paediatric Diabetic Medicine	0	
+264	Paediatric Cystic Fibrosis	0	
+280	Paediatric Interventional Radiology (From 2006-07)	0	
+290	Community Paediatrics (From 2006-07)	0	
+291	Paediatric Neuro-Disability (From 2006-07)	0	
+300	General Medicine	0	
+301	Gastroenterology	0	
+302	Endocrinology	0	
+303	Clinical Haematology	0	
+304	Clinical Physiology (From 2008-09)	0	
+305	Clinical Pharmacology	0	
+306	Hepatology	0	
+307	Diabetic Medicine	0	
+308	Bone And Marrow Transplantation (Previously Part Of Clinical Haematology)	0	
+309	Haemophilia (Previously Part Of Clinical Haematology)	0	
+310	Audiological Medicine	0	
+311	Clinical Genetics	0	
+312	Not A Treatment Function	0	
+313	Clinical Immunology And Allergy (Where There Are No Separate Services For Clinical Immunology And Allergy)	0	
+314	Rehabilitation Service	0	
+315	Palliative Medicine	0	
+316	Clinical Immunology	0	
+317	Allergy Service	0	
+318	Intermediate Care (Encompasses A Range Of Multidisciplinary Services Designed To Safeguard Independence By Maximising Rehabilitation And Recovery)	0	
+319	Respite Care	0	
+320	Cardiology	1	
+321	Paediatric Cardiology	1	
+322	Clinical Microbiology	0	
+323	Spinal Injuries (From 2006-07)	0	
+324	Anticoagulant Service	0	
+325	Sport And Exercise Medicine	0	
+327	Cardiac Rehabilitation	1	
+328	Stroke Medicine	0	??
+329	Transient Ischaemic Attack	0	??
+330	Dermatology	0	
+331	Congenital Heart Disease Service (From April 2013)	1	
+340	Respiratory Medicine (Previously Known As Thoracic Medicine)	0	
+341	Respiratory Physiology (Previously Known As Sleep Studies)	0	
+342	Programmed Pulmonary Rehabilitation	0	
+343	Adult Cystic Fibrosis Service	0	
+344	Complex Specialised Rehabilitation Service (From April 2013)	0	
+345	Specialist Rehabilitation Service (From April 2013)	0	
+346	Local Specialist Rehabilitation Service (From April 2013)	0	
+350	Infectious Diseases	0	
+352	Tropical Medicine	0	
+360	Genitourinary Medicine	0	
+361	Nephrology	0	
+370	Medical Oncology	0	
+371	Nuclear Medicine (From 2008-09)	0	
+400	Neurology	0	
+401	Clinical Neurophysiology (From 2008-09)	0	
+410	Rheumatology	0	
+420	Paediatrics	0	
+421	Paediatric Neurology	0	
+422	Neonatology	0	
+424	"Well Babies (Care Given By The Mother/Substitute, With Nursing Advice If Needed)"	0	
+430	Geriatric Medicine	0	
+450	Dental Medicine Specialities	0	
+460	Medical Ophthalmology	0	
+499	"Non-Uk Provider - Specialty Function Not Known, Treatment Mainly Medical"	0	
+500	Not A Treatment Function	0	
+501	Obstetrics	0	
+502	Gynaecology	0	
+503	Gynaecological Oncology	0	
+510	Not A Treatment Function	0	
+520	Not A Treatment Function	0	
+560	Midwifery Service	0	
+600	Not A Treatment Function	0	
+610	Not A Treatment Function	0	
+620	Not A Treatment Function	0	
+650	Physiotherapy (From 2006-07)	0	
+651	Occupational Therapy (From 2006-07)	0	
+652	Speech And Language Therapy (From 2006-07)	0	
+653	Podiatry (From 2006-07)	0	
+654	Dietetics (From 2006-07)	0	
+655	rthoptics (From 2006-07)	0	
+656	Clinical Psychology (From 2006-07)	0	
+657	Prosthetics	0	
+658	Orthotics	0	
+659	Drama Therapy	0	
+660	Art Therapy	0	
+661	Music Therapy	0	
+662	Optometry	0	
+663	Podiatric Surgery (From April 2013)	0	
+700	Learning Disability (Previously Known As Mental Handicap)	0	
+710	Adult Mental Illness	0	
+711	Child And Adolescent Psychiatry	0	
+712	Forensic Psychiatry	0	
+713	Psychotherapy	0	
+715	Old Age Psychiatry	0	
+720	Eating Disorders (From 2006-07)	0	
+721	Addiction Services (From 2006-07)	0	
+722	Liaison Psychiatry (From 2006-07)	0	
+723	Psychiatric Intensive Care(From 2006-07)	0	
+724	Perinatal Psychiatry (From 2006-07)	0	
+725	Mental Health Recovery And Rehabilitation Service (From April 2013)	0	
+726	Mental Health Dual Diagnosis Service (From April 2013)	0	
+727	Dementia Assessment Service (From April 2013)	0	
+800	Clinical Oncology (Previously Known As Radiotherapy)	0	
+810	Not A Treatment Function	0	
+811	Interventional Radiology	0	
+812	Diagnostic Imaging (From 2008-09)	0	
+820	Not A Treatment Function	0	
+821	Not A Treatment Function	0	
+822	Chemical Pathology	0	
+823	Not A Treatment Function	0	
+824	Not A Treatment Function	0	
+830	Not A Treatment Function	0	
+831	Not A Treatment Function	0	
+832	Not A Treatment Function	0	
+834	Medical Virology	0	
+840	Audiology (From 2008-09)	0	
+900	Not A Treatment Function	0	
+901	Not A Treatment Function	0	
+920	Diabetic Education Service (From April 2013)	0	
+950	Not A Treatment Function	0	
+960	Not A Treatment Function	0	
+990	Not A Treatment Function	0	
+&	Not Known	0	

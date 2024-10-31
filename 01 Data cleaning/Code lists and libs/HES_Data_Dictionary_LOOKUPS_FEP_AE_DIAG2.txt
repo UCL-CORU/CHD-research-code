@@ -1,0 +1,40 @@
+DIAG2_code	DIAG2_desc	"Cardiac (0=No, 1=Yes, 2=Ambiguous)"
+01	Laceration	0
+02	Contusion/abrasion	0
+03	Soft tissue inflammation	0
+04	Head injury	0
+05	Dislocation/fracture/joint injury/amputation	0
+06	Sprain/ligament injury	0
+07	Muscle/tendon injury	0
+08	Nerve injury	0
+09	Vascular injury	0
+10	Burns and scalds	0
+11	Electric shock	0
+12	Foreign body	0
+13	Bites/stings	0
+14	Poisoning (inc overdose)	0
+15	Near drowning	0
+16	Visceral injury	0
+17	Infectious disease	0
+18	Local infection	0
+19	Septicaemia	0
+20	Cardiac conditions	1
+21	Cerebro-vascular conditions	0
+22	Other vascular conditions	0
+23	Haematological conditions	0
+24	Central nervous system conditions (exc stroke)	0
+25	Respiratory conditions	0
+26	Gastrointestinal conditions	0
+27	Urological conditions (inc cystitis)	0
+28	Obstetric conditions	0
+29	Gynaecological conditions	0
+30	Diabetes and other endocrinological conditions	0
+31	Dermatological conditions	0
+32	Allergy (inc anaphylaxis)	0
+33	Facio-maxillary conditions	0
+34	ENT conditions	0
+35	Psychiatric conditions	0
+36	Ophthalmological  conditions	0
+37	Social problems (inc chronic alcoholism and homelessness)	0
+38	Diagnosis not classifiable	0
+39	Nothing abnormal detected	0
