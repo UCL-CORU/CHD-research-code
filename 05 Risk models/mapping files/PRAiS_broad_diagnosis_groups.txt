@@ -1,0 +1,27 @@
+NewDiagnosisGroupRank	NewAllcodesGroup	Broad diagnosis grouping used in PRAiS2
+1	Hypoplastic left heart syndrome	1
+2	Functionally univentricular heart	2
+3	Common arterial trunk (truncus arteriosus)  	1
+4	TGA+VSD/ DORV-TGA type	3
+5	Interrupted aortic arch	3
+6	Transposition of great arteries (concordant AV & discordant VA connections) & IVS	9
+7	Pulmonary atresia and IVS	1
+8	Pulmonary atresia + VSD (including Fallot type)	2
+9	Misc congenital primary diagnoses	5
+10	Atrioventricular septal defect	7
+11	Fallot / DORV-Fallot type	7
+12	Aortic valve stenosis (isolated)	8
+13	Tricuspid valve abnormality (including Ebstein's)	5
+14	"Mitral valve abnormality (including supravalvar, subvalvar)"	8
+15	TAPVC	5
+16	Aortic arch obstruction +/- VSD/ASD	10
+17	Pulmonary stenosis (including subvalvar suprvalvar	10
+18	Subaortic stenosis 	11
+19	Aortic regurgitation	11
+20	VSD	11
+21	Interatrial communication ('ASD')	11
+22	PDA	4
+23	Vascular ring	11
+24	Miscelleneous congenital terms	8
+25	Arrhythmia	11
+26	Acquired heart disease 	6
