@@ -13,6 +13,7 @@ R code used for research on Congenital Heart Disease (CHD) in the research proje
 
 * [Data Cleaning](<https://github.com/UCL-CORU/CHD-research-code/tree/main/01 Data cleaning>)
 * [Patient Trajectories](<https://github.com/UCL-CORU/CHD-research-code/tree/main/02 Patient trajectories>)
+* [Diagnosis and Comorbidity Identification](<https://github.com/UCL-CORU/CHD-research-code/tree/main/03 Diagnosis and comorbidity identification>)
 
 ## Publication list
 
