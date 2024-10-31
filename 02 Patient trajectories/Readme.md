@@ -13,7 +13,7 @@ R code used for research on Congenital Heart Disease (CHD) in the research proje
 
 02 Patient trajectories: R files 
 
-R files allow to cobine the folling data sets into a patient data (R file 02.01) with multiple episodes, named "spells of care" (R file 02.02):
+R files allow to cobine the folling data sets into a patient data set (R file 02.01), where patients have multiple episodes, named "spells of care" (R file 02.02):
 
 * National Congenital Heart Disease Audit (NCHDA)
 * Hospital Episode Statistics (HES)
