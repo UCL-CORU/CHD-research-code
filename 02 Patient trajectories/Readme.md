@@ -1,6 +1,6 @@
 # CHD research code: Patient trajectories
 
-**Ferran Espuny Pujol, John Stickley, Rodney CG Franklin, Katherine Brown, Jiaqiu Wang, Sonya Crowe, Christina Pagel**
+**Ferran Espuny Pujol, Rodney CG Franklin, Katherine Brown, Sonya Crowe, Christina Pagel**
 
 ## Description
 
