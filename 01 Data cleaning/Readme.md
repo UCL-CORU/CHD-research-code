@@ -26,3 +26,5 @@ The folder [Code lists and libs](<Code lists and libs>) containts the R code fro
 ## Details
 
 As part of cleaning the NCHDA extract at COUR UCL, we revised ages, derived dates from ages and a single IMD decile field, tidied the fields sex, ethnicity, patient status, diagnosis codes, previous procedure codes, antenatal diagnosis, pre-procedure seizures, comorbidity codes, pre-procedural systemic ventricular ejection fraction, pre-procedural sub-pulmonary ventricular ejection fraction, procedure urgency, procedure type, sternotomy sequence, procedure codes, discharge status, pre-procedural NYHA status, pre-procedural smoking status, pre-procedural diabetes, history of pulmonary disease, pre-procedural ischemic heart disease.
+
+For HES data, we processed the Health Research Group (HRG) and treatment Speciality (TRETSPEF) fields to derive a flag "isCardiac" indicating whether the hospital (inpatient, outpatient or A&E) episode was cardiac. 
