@@ -1,6 +1,6 @@
 # CHD research code: Outcomes of Interest
 
-**Ferran Espuny Pujol, John Stickley, Rodney CG Franklin, Katherine Brown, Jiaqiu Wang, Sonya Crowe, Christina Pagel**
+**Ferran Espuny Pujol, Sonya Crowe, Christina Pagel**
 
 ## Description
 
