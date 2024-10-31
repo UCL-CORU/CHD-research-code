@@ -22,4 +22,4 @@ R files allow to cobine the folling data sets into a patient data set (R file 02
 Data was linked at record level outside CORU. 
 CORU only received anonymised records with a study record ID that allowed to identify linked records.
 The creation of spells of care was first described in:
-> Espuny Pujol F, Pagel C, Brown KL, et al. Linkage of National Congenital Heart Disease Audit data to hospital, critical care and mortality national data sets to enable research focused on quality improvement. BMJ Open 2022;12:e057343. doi: 10.1136/bmjopen-2021-057343
+> Espuny Pujol F, Pagel C, Brown KL, et al. Linkage of National Congenital Heart Disease Audit data to hospital, critical care and mortality national data sets to enable research focused on quality improvement. BMJ Open 2022;12:e057343. {doi: 10.1136/bmjopen-2021-057343}(<https://bmjopen.bmj.com/content/12/5/e057343>)
