@@ -4,7 +4,7 @@
 
 ## Description
 
-R code used for research on Congenital Heart Disease (CHD) in the research projects 
+R code used for research on Congenital Heart Disease (CHD) in the research projects: 
 
 * LAUNCHES QI - Linking audit and national datasets in congenital heart services for quality improvement;
 * CHAMPION - Congenital heart audit: measuring progress in outcomes nationally (CHAMPION).
@@ -14,6 +14,8 @@ R code used for research on Congenital Heart Disease (CHD) in the research proje
 * [Data Cleaning](<https://github.com/UCL-CORU/CHD-research-code/tree/main/01 Data cleaning>)
 * [Patient Trajectories](<https://github.com/UCL-CORU/CHD-research-code/tree/main/02 Patient trajectories>)
 * [Diagnosis and Comorbidity Identification](<https://github.com/UCL-CORU/CHD-research-code/tree/main/03 Diagnosis and comorbidity identification>)
+* [Outcomes of Interest](<https://github.com/UCL-CORU/CHD-research-code/tree/main/04 Outcomes of interest>)
+* [Risk Models](<https://github.com/UCL-CORU/CHD-research-code/tree/main/05 Risk models>)
 
 ## Publication list
 
