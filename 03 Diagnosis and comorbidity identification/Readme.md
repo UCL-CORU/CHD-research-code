@@ -19,4 +19,4 @@ R files allow to use NCHDA record-level diagnosis and comorbidity codes to deriv
 * comorbidity groups (R file 03.02)
 * a results file with these outputs combined (R file 03.03).
 
-The folder [mapping files](<mapping files>) containts the paediatric and adult mappings used to assign diagnosis and comorbidity groups.
+The folder [mapping files](<mapping files>) contains the paediatric and adult mappings used to assign diagnosis and comorbidity groups.
