@@ -1,4 +1,4 @@
-# CHD research code: Diagnosis and comorbidity identification
+# CHD research code: Diagnosis and Comorbidity Identification
 
 **Ferran Espuny Pujol, John Stickley, Rodney CG Franklin, Katherine Brown, Jiaqiu Wang, Sonya Crowe, Christina Pagel**
 
