@@ -18,7 +18,7 @@ Note that although most of the code used in the research projects was in Stata, 
 * [Diagnosis and Comorbidity Identification](<https://github.com/UCL-CORU/CHD-research-code/tree/main/03 Diagnosis and comorbidity identification>)
 * [Outcomes of Interest](<https://github.com/UCL-CORU/CHD-research-code/tree/main/04 Outcomes of interest>)
 * [Risk Models](<https://github.com/UCL-CORU/CHD-research-code/tree/main/05 Risk models>)
-* [Identification of pathways of care for specific diagnoses](https://[<github.com/UCL-CORU/CHAMPION-work-stream-2](https://github.com/UCL-CORU/CHD-research-code/tree/main/06 Identifications of pathways of care for specific diagnoses)>)
+* [Identification of pathways of care for specific diagnoses](<https://github.com/UCL-CORU/CHD-research-code/tree/main/06 Identifications of pathways of care for specific diagnoses>)
 
 Additional R code can be found in the [UCL CORU site](https://github.com/UCL-CORU/) for:
 * [Linkage of records using patient identifiers](https://github.com/UCL-CORU/LAUNCHESQI_Linkage)
