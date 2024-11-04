@@ -49,7 +49,7 @@ We use the following important variables to assign the sentinel CHD diagnosis, s
 *	diagcode1-29 (record-level, derived): EPCC codes in diagnosis filed (cleaned, contain the 6 digits EPCC Code only)(code can be seen in 01 Data cleaning/01.02 NCHDA data processing from NICOR activity algorithm and specific procedure.R, marked as d1-d10. the maximum number of diagnosis codes depend on the exact data)
 *	comorbidity1-16 (record-level, derived): codes in comorbidity filed (cleaned, contain the 6 digits EPCC Code only)(code can be seen in 01 Data cleaning/01.02 NCHDA data processing from NICOR activity algorithm and specific procedure.R, marked as c1-c10. the maximum number of comorbidity codes depend on the exact data)
 *	proccode1-7 (record-level, derived):  codes in procedure filed (cleaned, contain the 6 digits EPCC Code only)(code can be seen in 01 Data cleaning/01.02 NCHDA data processing from NICOR activity algorithm and specific procedure.R, marked as p1-p10. the maximum number of procedure codes depend on the exact data)
-*	prevproccode1-26 (record-level, derived):  codes in previous procedure filed (cleaned, contain the 6 digits EPCC Code only)(code can be seen in 01 Data cleaning/01.02 NCHDA data processing from NICOR activity algorithm and specific procedure.R, marked as pp1-pp10. the maximum number of procedure codes depend on the exact data)
+*	prevproccode1-26 (record-level, derived):  codes in previous procedure filed (cleaned, contain the 6 digits EPCC Code only)(code can be seen in 01 Data cleaning/01.02 NCHDA data processing from NICOR activity algorithm and specific procedure.R, marked as pp1-pp10. the maximum number of previous procedure codes depend on the exact data)
 *	sp_allocation (record-level, derived): specific procedure algorithm allocation of procedure type ([version 8.05, used in NICOR](code can be seen in 01 Data cleaning/01.02 NCHDA data processing from NICOR activity algorithm and specific procedure.R)
 *	aa_allocation (record-level, derived):  activity algorithm allocation of procedure type. The algorithm is developed by NICOR (code can be seen in 01 Data cleaning/01.02 NCHDA data processing from NICOR activity algorithm and specific procedure.R)
 *	InterType (record-level, derived):  intervention type derived from aa_allocation.
@@ -64,6 +64,6 @@ There may be a time gap between the ONS confirmation date and the last date of t
 
 ### Further details
 
-For further details, you can consult the provided Word documents and the publication
+For further details, you can consult the provided Word documents (Example of assigning pathways for HLHS) and the publication
 
 > K.L Brown, Q. Huang, F. Espuny-Pujol, etal. Evaluating long-term outcomes of children undergoing surgical treatment for congenital heart disease for national audit in England and Wales. [J. Am. Heart Assoc. 2024](https://www.ahajournals.org/doi/10.1161/JAHA.124.035166).
