@@ -35,7 +35,7 @@ For enquiries, qi_huang@ucl.ac.uk
 ### Data sources
 The core dataset is the National Congenital Heart Disease Audit (NCHDA) with ONS death registration data linked. 
 NCHDA is run by the National Institute for Cardiovascular Outcomes Research (NICOR), which collects data to assess patient outcomes after therapeutic paediatric and congenital cardiovascular procedures (surgery, transcatheter, and electrophysiological interventions). 
-CHD and paediatric cardiac operations are very diverse and complex, and are described in NCHDA using a special coding scheme from the European Paediatric Cardiac Code (EPCC), itself a derived Short List of the International Paediatric and Congenital Cardiac Code (www.ipccc.net). 
+CHD and paediatric cardiac operations are very diverse and complex, and are described in NCHDA using a special coding scheme from the European Paediatric Cardiac Code (EPCC), itself a derived [Short List of the International Paediatric and Congenital Cardiac Code](www.ipccc.net). 
 One can download the NCHDA data manual and EPCC codes at [NICOR’s website](https://www.nicor.org.uk/datasets/supporting-data-set-documentation). 
 To note, as the NCHDA is a procedure-based dataset, patients who did not undergo any surgical or interventional cardiac procedures do not appear in the dataset.
 
