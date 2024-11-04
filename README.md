@@ -1,6 +1,6 @@
 # R code for analysing national data from England on Congenital Heart Disease 
 
-**Ferran Espuny Pujol, John Stickley, Rodney CG Franklin, Katherine Brown, Jiaqiu Wang, Sonya Crowe, Christina Pagel**
+**Ferran Espuny Pujol, Qi Huang, John Stickley, Rodney CG Franklin, Katherine Brown, Jiaqiu Wang, Sonya Crowe, Christina Pagel**
 
 ## Description
 
