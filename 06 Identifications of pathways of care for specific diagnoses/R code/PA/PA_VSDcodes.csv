@@ -1,0 +1,66 @@
+shortcode,description
+010101,010101. Tetralogy of Fallot
+010104,010104 Double outlet right ventricle
+010106, 010106. Pulmonary atresia + VSD (including Fallot type)
+010117,010117. Double outlet right ventricle: Fallot type (subaortic or doubly committed VSD & pulmonary stenosis)
+010119,010119 DORV with uncommitted VSD
+010125, 010125. Pulmonary atresia + VSD + systemic-to-pulmonary collateral artery(ies) (MAPCA(s))
+071000,071000. VSD
+071001,071001. Perimembranous VSD
+071002,071002.Inlet perimembranous ventricular septal defect (VSD) without atrioventricular malalignment without a common atrioventricular junction.
+071004,071004. Outlet perimembranous ventricular septal defect (VSD) with anteriorly malaligned of outlet septum.
+071012,071012. VSD + malaligned outlet septum
+071017,071017.Outlet ventricular septal defect (VSD) with anteriorly malaligned outlet septum.
+071018,071018.Outlet ventricular septal defect (VSD) with posteriorly malaligned outlet septum.
+071019,071019. Outlet perimembranous ventricular septal defect (VSD) with posteriorly malaligned outlet septum.
+071101,071101. Muscular VSD
+071102,071102.Inlet muscular ventricular septal defect (VSD).
+071103,071103.Trabecular muscular ventricular septal defect (VSD) apical.
+071104,071104.Trabecular muscular ventricular septal defect (VSD) midseptal.
+071105,071105.Trabecular muscular ventricular septal defect (VSD)s multiple (Swiss cheese septum).
+071106,071106. Outlet muscular ventricular septal defect (VSD) without malalignment.
+071107,071107.Trabecular muscular ventricular septal defect (VSD) anterosuperior.
+071112,071112.Trabecular muscular ventricular septal defect (VSD) postero-inferior.
+071115,071115. Outlet muscular ventricular septal defect (VSD) with anteriorly malaligned outlet septum.
+071116,071116. Outlet muscular ventricular septal defect (VSD) with posteriorly malaligned outlet septum.
+071200,071200. Subarterial VSD
+071201,071201. Doubly committed subarterial VSD
+071202,071202. Doubly committed juxta-arterial ventricular septal defect (VSD) without malalignment and with muscular postero-inferior rim.
+071203,071203. Doubly committed juxta-arterial ventricular septal defect (VSD) without malalignment and with perimembranous extension.
+071205,071205. Doubly committed juxta-arterial ventricular septal defect (VSD) with anteriorly malaligned fibrous outlet septum and perimembranous extension.
+071206,071206. Doubly committed juxta-arterial ventricular septal defect (VSD) with posteriorly malaligned fibrous outlet septum and perimembranous extension.
+071207,071207. Doubly committed juxta-arterial ventricular septal defect (VSD) with anteriorly malaligned fibrous outlet septum and muscular postero-inferior rim.
+071208,071208. Doubly committed juxta-arterial ventricular septal defect (VSD) with posteriorly malaligned outlet septum and muscular postero-inferior rim.
+071209,071209.Outlet ventricular septal defect (VSD) without malalignment.
+071212,071212.Doubly committed juxta-arterial ventricular septal defect (VSD) with anteriorly malaligned fibrous outlet septum.
+071213,071213.Doubly committed juxta-arterial ventricular septal defect (VSD) with posteriorly malaligned fibrous outlet septum.
+071402,071402. Communication between left ventricle + right atrium (Gerbode defect)
+071405,071405. Inlet VSD
+071406,071406.Inlet perimembranous ventricular septal defect (VSD) with atrioventricular septal malalignment and without common atrioventricular junction.
+071501,071501. Tiny VSD (Maladie de Roger)
+071504,071504. Multiple VSDs
+071505,071505. Single VSD
+090726,090726. Solitary arterial trunk (absent intrapericardial pulmonary arteries)
+090801,090801. Major systemic-to-pulmonary collateral artery(ies) (MAPCA(s))
+092025,092025. Systemic-to-pulmonary collateral arter(ies) (MAPCA(s)) stenosis(es)
+120801,120801. VSD closure
+120802,120802. VSD closure by direct suture
+120803,120803. VSD closure using patch
+120828,120828. VSD closure with prosthesis - intraoperatively
+121430,"121430. Pulmonary artery origin from ascending aorta (hemitruncus) repair,"
+122500,"122500. Systemic-to-pulmonary collateral artery (ies) (MAPCA(s)) unifocalisation procedure,"
+122518,"122518. Systemic-to-pulmonary collateral artery(ies) (MAPCA(s)) occlusion,"
+122519,"122519. Transluminal procedure to systemic-to-pulmonary collateral artery (MAPCA(s)),"
+122562,"122562. Stent placement in systemic-to-pulmonary collateral artery (MAPCA(s)),"
+122565,"122565.  Transluminal occlusion of systemic-to-pulmonary collateral artery(ies) (MAPCA(s)) with coil-device,"
+122567,122567. Unilateral Systemic-to-pulmonary collateral artery(ies) (MAPCA(s)) unifocalisation procedure.
+122572,"122572. Balloon dilation of systemic-to-pulmonary collateral artery(ies) (MAPCA(s)),"
+122587,122587. Bilateral systemic-to-pulmonary collateral artery(ies) (MAPCA(s)) unifocalisation procedure: complete with all usable collaterals incorporated.
+122588,122588. Bilateral systemic-to-pulmonary collateral artery(ies) (MAPCA(s)) unifocalisation procedure: incomplete with not all usable collaterals incorporated.
+122601,"122601. Tetralogy of Fallot repair,                            "
+122613,"122613. Tetralogy of Fallot repair with transannular patch,  "
+122620,"122620. Tetralogy of Fallot repair without transannular patch,  "
+122801,"122801. Pulmonary atresia & ventricular septal defect (VSD) (including Fallot-type) repair,"
+122811,"122811. Pulmonary atresia, ventricular septal defect (VSD) & systemic-to-pulmonary collateral artery(ies) (MAPCA(s)) repair,"
+122821,122821. Pulmonary atresia. ventricular septal defect (VSD) & systemic-to-pulmonary collateral artery(ies) (MAPCA(s)) repair: status post complete unifocalisation with all usable collaterals incorporated.
+122822,122822. Pulmonary atresia. ventricular septal defect (VSD) & systemic-to-pulmonary collateral artery(ies) (MAPCA(s)) repair: status post incomplete unifocalisation with not all usable collaterals incorporated.

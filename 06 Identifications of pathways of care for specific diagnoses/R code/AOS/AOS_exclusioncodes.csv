@@ -1,0 +1,211 @@
+shortcode,description
+010101,010101. Tetralogy of Fallot
+010102,010102. Transposition of great arteries (concordant AV & discordant VA connections) & IVS
+010103,010103. Congenitally corrected transposition of great arteries (discordant AV & VA connections)
+010104,010104. Double outlet right ventricle
+010106,010106. Pulmonary atresia + ventricular septal defect (VSD) (including Fallot type)
+010107,010107. Pulmonary atresia with intact ventricular septum
+010109,010109. Hypoplastic left heart syndrome
+010110,010110.Transposition of the great arteries with concordant atrioventricular connections and ventricular septal defect.
+010114,010114. Double inlet AV connection (double inlet ventricle)
+010116,010116. Partially anomalous pulmonary venous connections: Scimitar syndrome
+010117,010117. Double outlet right ventricle: Fallot type (subaortic or doubly committed VSD & pulmonary stenosis)
+010118,010118. Double outlet right ventricle: transposition type (subpulmonary VSD)
+010119,010119. Double outlet right ventricle with non-committed ventricular septal defect
+010120,010120. AV septal defect and Tetralogy of Fallot
+010122,010122. Functionally univentricular heart
+010124,010124. Double outlet right ventricle: with intact ventricular septum
+010125,010125. Pulmonary atresia + ventricular septal defect (VSD) + systemic-to-pulmonary collateral artery(ies) (MAPCA(s))
+010126,010126.Tetralogy of Fallot with pulmonary atresia.
+010140,"010140. Double outlet right ventricle with subaortic or doubly committed ventricular septal defect without pulmonary stenosis, ventricular septal defect type"
+010157,010157.Tetralogy of Fallot with pulmonary atresia and systemic-to-pulmonary collateral artery(ies) (MAPCA(s)).
+010309,010309 AV and or/VA connections abnormal 
+010403,010403. Double inlet RV
+010404,010404. Double inlet LV
+010405,010405.Double inlet to solitary ventricle of indeterminate morphology.
+010501,010501. Discordant VA connections (TGA)
+010503,010503. Double outlet left ventricle
+020101,020101.Extrathoracic heart (ectopia cordis).
+020303,020303.Crisscross heart (twisted atrioventricular connections).
+020305,020305. Solitary ventricle of indeterminate morphology
+030104,030104. Right isomerism ('asplenia')  
+030105,030105. Left isomerism ('polysplenia')
+040600,040600. Totally anomalous pulmonary venous connection: supracardiac
+040701,040701. Partially anomalous pulmonary venous connection(s)
+040802,040802.Congenital atresia of pulmonary vein(s).
+040804,040804.Congenital anomaly of pulmonary vein(s).
+040805,040805. Totally anomalous pulmonary venous connection
+040806,040806. Obstructed pulmonary venous connection(s)
+040807,040807. Anomalous pulmonary venous connection.
+040810,040810. Totally anomalous pulmonary venous connection: intracardiac
+040820,040820. Totally anomalous pulmonary venous connection: infracardiac
+040830,040830. Totally anomalous pulmonary venous connection: mixed
+040831,040831.Congenital pulmonary venous stenosis and-or hypoplasia.
+040891,040891. Pulmonary vein stenosis
+050201,050201. Cor triatriatum (divided left atrium)
+050202,050202. Supravalvar mitral ring
+050601,050601. Common atrium (virtual absence of atrial septum)
+050603,050603.Common atrium with common atrioventricular junction.
+060100,060100. Tricuspid valvar abnormality
+060101,060101. Triscuspid atresia
+060103,060103. Tricuspid valvar dysplasia
+060104,060104. Tricuspid annular hypoplasia.
+060105,060105. Overriding tricuspid valve.
+060107,060107. Congenital tricuspid valvar stenosis.
+060111,060111. Congenital anomaly of tricuspid valve.
+060125,060125. Tricuspid regurgitation: congenital
+060126,060126. Tricuspid atresia with absent valvar annulus (connection-junction).
+060134,060134. Ebstein's malformation of tricuspid valve
+060191,060191. Tricuspid regurgitation
+060192,060192. Tricuspid stenosis
+060201,060201. Mitral atresia
+060202,060202. Mitral atresia with imperforate mitral valve.
+060225,060225. Mitral regurgitation: congenital
+060226,060226. Mitral atresia with absent valvar annulus (connection-junction).
+060236,060236. True cleft of mitral leaflet (without AVSD)
+060311,060311.Congenital anomaly of right-sided atrioventricular valve in double inlet ventricle.
+060411,060411.Congenital anomaly of left-sided atrioventricular valve in double inlet ventricle.
+060501,060501. AVSD AV valvar abnormality
+060506,060506. AVSD AV valvar regurgitation
+060514,060514.Atypical common atrioventricular valve.
+060525,060525. Double orifice of left ventricular component of common atrioventricular valve (left atrioventricular valve).
+060560,060560.Common atrioventricular valvar regurgitation.
+060571,060571.Atypical right ventricular component of common atrioventricular valve (right atrioventricular valve).
+060572,060572.Atypical left ventricular component of common atrioventricular valve (left atrioventricular valve).
+060598,060598. Deficient mural-lateral leaflet of left ventricular component of common atrioventricular valve (left atrioventricular vale)
+060600,060600. Atrioventricular septal defect
+060601,060601. AVSD: isolated atrial component (primum ASD)(partial)
+060608,060608. AVSD: isolated ventricular component
+060609,060609. AVSD: atrial & ventricular components with common AV orifice (complete)
+060610,060610. AVSD: atrial & (restrictive) ventricular components + separate AV valves ('intermediate')
+060705,060705. Atrioventricular septal defect (AVSD) with ventricular imbalance with dominant right ventricle and hypoplastic left ventricle.
+060706,060706. Atrioventricular septal defect (AVSD) with ventricular imbalance with dominant left ventricle and hypoplastic right ventricle.
+060726,060726. AVSD with ventricular imbalance
+060727,060727. Atrioventricular septal defect (AVSD) with balanced ventricles.
+060728,060728.Common atrioventricular junction with spontaneous fibrous closure of atrioventricular septal defect (AVSD).
+060736,060736. Common atrioventricular valve with unbalanced commitment of valve to ventricles.
+060737,060737.Common atrioventricular valve with unbalanced commitment of valve to right ventricle.
+060738,060738.Common atrioventricular valve with unbalanced commitment of valve to left ventricle.
+070301,070301. Double chambered right ventricle
+070520,070520.Congenital right ventricular outflow tract obstruction.
+070530,070530. Subpulmonary stenosis
+070532,070532.Congenital subpulmonary stenosis.
+070841,070841. Ventricular imbalance: dominant left ventricle + hypoplastic right ventricle
+070842,070842. Ventricular imbalance: dominant right ventricle + hypoplastic left ventricle
+071000,071000. VSD
+071001,071001. Perimembranous VSD
+071002,071002.Inlet perimembranous ventricular septal defect (VSD) without atrioventricular malalignment without a common atrioventricular junction.
+071004,071004. Outlet perimembranous ventricular septal defect (VSD) with anteriorly malaligned of outlet septum.
+071012,071012. VSD + malaligned outlet septum
+071017,071017.Outlet ventricular septal defect (VSD) with anteriorly malaligned outlet septum.
+071018,071018.Outlet ventricular septal defect (VSD) with posteriorly malaligned outlet septum.
+071019,071019. Outlet perimembranous ventricular septal defect (VSD) with posteriorly malaligned outlet septum.
+071101,071101. Muscular VSD
+071102,071102.Inlet muscular ventricular septal defect (VSD).
+071103,071103.Trabecular muscular ventricular septal defect (VSD) apical.
+071104,071104.Trabecular muscular ventricular septal defect (VSD) midseptal.
+071105,071105.Trabecular muscular ventricular septal defect (VSD)s multiple (Swiss cheese septum).
+071106,071106. Outlet muscular ventricular septal defect (VSD) without malalignment.
+071107,071107.Trabecular muscular ventricular septal defect (VSD) anterosuperior.
+071112,071112.Trabecular muscular ventricular septal defect (VSD) postero-inferior.
+071115,071115. Outlet muscular ventricular septal defect (VSD) with anteriorly malaligned outlet septum.
+071116,071116. Outlet muscular ventricular septal defect (VSD) with posteriorly malaligned outlet septum.
+071200,071200. Subarterial VSD
+071201,071201. Doubly committed subarterial VSD
+071202,071202. Doubly committed juxta-arterial ventricular septal defect (VSD) without malalignment and with muscular postero-inferior rim.
+071203,071203. Doubly committed juxta-arterial ventricular septal defect (VSD) without malalignment and with perimembranous extension.
+071205,071205. Doubly committed juxta-arterial ventricular septal defect (VSD) with anteriorly malaligned fibrous outlet septum and perimembranous extension.
+071206,071206. Doubly committed juxta-arterial ventricular septal defect (VSD) with posteriorly malaligned fibrous outlet septum and perimembranous extension.
+071207,071207. Doubly committed juxta-arterial ventricular septal defect (VSD) with anteriorly malaligned fibrous outlet septum and muscular postero-inferior rim.
+071208,071208. Doubly committed juxta-arterial ventricular septal defect (VSD) with posteriorly malaligned outlet septum and muscular postero-inferior rim.
+071209,071209.Outlet ventricular septal defect (VSD) without malalignment.
+071212,071212.Doubly committed juxta-arterial ventricular septal defect (VSD) with anteriorly malaligned fibrous outlet septum.
+071213,071213.Doubly committed juxta-arterial ventricular septal defect (VSD) with posteriorly malaligned fibrous outlet septum.
+071405,071405. Inlet VSD
+071406,071406.Inlet perimembranous ventricular septal defect (VSD) with atrioventricular septal malalignment and without common atrioventricular junction.
+071504,071504. Multiple VSDs
+090101,090101. Common arterial trunk (truncus arteriosus)
+090111,090111. Common arterial trunk (truncus arteriosus) with aortic dominance and one pulmonary artery absent from trunk. isolated pulmonary artery.
+090112,090112. Common arterial trunk (truncus arteriosus) with pulmonary dominance and aortic arch obstruction.
+090114,090114. Common arterial trunk (truncus arteriosus) with aortic dominance and both pulmonary arteries arising from trunk.
+090115,090115. Common arterial trunk (truncus arteriosus) with aortic dominance (no aortic arch obstruction)
+090118,090118. Common arterial trunk (truncus arteriosus) with pulmonary dominance and interrupted aortic arch.
+090119,090119. Common arterial trunk (truncus arteriosus) with pulmonary dominance and aortic coarctation.
+090200,090200. Truncal valvar abnormality
+090201,090201.Dysplasia of truncal valve.
+090203,090203. Truncal valvar regurgitation
+090218,090218.Congenital truncal valvar stenosis.
+090219,090219.Congenital truncal valvar regurgitation.
+090401,090401. Aortopulmonary window
+090407,090407.Congenital aortopulmonary window.
+090501,090501. Pulmonary valvar stenosis
+090504,090504. Pulmonary valvar stenosis: congenital
+090505,090505.Pulmonary 'annular' hypoplasia.
+090511,090511. Pulmonary atresia
+090512,090512. Pulmonary atresia: imperforate valve
+090516,090516.Congenital pulmonary atresia.
+090525,090525. Tetralogy of Fallot with absent pulmonary valve syndrome
+090592,090592. Pulmonary stenosis
+090705,090705. Absent or atretic pulmonary trunk (main pulmonary artery).
+090711,090711. Pulmonary trunk hypoplasia
+090713,090713. Supravalvar pulmonary trunk stenosis
+090715,090715.Congenital supravalvar pulmonary stenosis.
+090716,090716.Congenital anomaly of pulmonary arterial tree.
+090719,090719. Congenital pulmonary trunk (main pulmonary artery) anomaly.
+090720,090720. Congenital pulmonary trunk hypoplasia.
+090726,090726. Solitary arterial trunk (absent intrapericardial pulmonary arteries)
+090801,090801. Major systemic-to-pulmonary collateral artery(ies) (MAPCA(s))
+090902,090902.Right pulmonary artery from arterial duct.
+090903,090903.Right pulmonary artery from ascending aorta.
+090904,090904.Left pulmonary artery from arterial duct.
+090905,090905.Left pulmonary artery from ascending aorta.
+090908,090908. Pulmonary artery from ascending aorta (hemitruncus)
+090911,090911. Pulmonary artery from arterial duct.
+091001,091001. Pulmonary arterial stenosis
+091006,091006. Peripheral pulmonary arterial stenoses: at-beyond hilar bifurcation
+091007,091007. Central pulmonary arterial stenosis: proximal to hilar bifurcation
+091010,091010. Discontinuous (non-confluent) pulmonary arteries
+091025,091025. Right pulmonary arterial stenosis
+091026,091026. Left pulmonary arterial stenosis
+091027,091027.Congenital pulmonary arterial branch stenosis.
+091028,091028.Congenital right pulmonary arterial stenosis.
+091029,091029. Congenital left pulmonary arterial stenosis.
+091030,091030.Congenitally discontinuous. non-confluent right and left pulmonary arteries.
+091037,091037.Congenital central pulmonary arterial stenosis or hypoplasia proximal to hilar bifurcation.
+091038,091038. Congenital peripheral pulmonary arterial stenoses or hypoplasia at or beyond hilar bifurcation.
+091075,091075.Absent or atretic right pulmonary artery.
+091077,091077.Absent or atretic left pulmonary artery.
+091503,091503. Aortic atresia
+091506,091506. Aortic valvar atresia.
+091600,091600. Supravalvar aortic stenosis
+091618,091618. Congenital supravalvar aortic stenosis.
+091701,091701. Aortoventricular tunnel
+091702,091702. Aorto - left ventricular tunnel
+092025,092025. Systemic-to-pulmonary collateral arter(ies) (MAPCA(s)) stenosis(es)
+092931,092931. Interrupted aortic arch
+092932,092932. Interrupted aortic arch distal to subclavian artery. type A.
+092933,092933. Interrupted aortic arch between subclavian & common carotid arteries. type B.
+092934,092934. Interrupted aortic arch between carotid arteries. type C.
+093134,093134.Vascular ring of left aortic arch and right arterial duct or ligament.
+093135,093135.Vascular ring of right aortic arch and left arterial duct or ligament.
+094101,094101. Anomalous origin of coronary artery from pulmonary artery
+094103,094103. Anomalous origin of left coronary artery from pulmonary artery (ALCAPA).
+094221,094221.Anomalous aortic origin of coronary artery with ventriculo-arterial concordance.
+120143,120143 Atrial septectomy
+120643,120643 Right ventricle to pulmonary artery valveless conduit construction (Japanese modification: 'Sano') as part of Norwood procedure
+120801,"120801 Ventricular septal defect (VSD) closure,"
+120802,120802 Ventricular septal defect (VSD) closure by direct suture
+120803,"120803 Ventricular septal defect (VSD) closure using patch,"
+120828,120828 Intraoperative ventricular septal defect (VSD) closure with transluminal device (hybrid approach)
+120903,"120903 Damus-Kaye-Stansel type procedure: pulmonary trunk to aorta end/side anastomosis,"
+121004,"121004 ""Hybrid approach 'Stage 1': application of bilateral pulmonary arterial bands & transcatheter placement of stent in arterial duct "
+121402,"121402 Pulmonary trunk band (PA band),"
+121403,"121403 Pulmonary trunk band removal (de-band),"
+121405,"121405 Balloon dilation of pulmonary trunk,"
+121640,"121640 Supravalvar aortic stenosis repair,"
+121661,"121661 Aortic valve closure-oversewing,"
+122022,"122022 Hypoplastic left heart syndrome hybrid approach (transcatheter & surgery) 'stage 2':  aortopulmonary amalgamation + superior cavopulmonary anastomosis(es) + debanding of pulmonary arteries,"
+123103,"123103 Modified right Blalock interposition shunt,"
+123106,"123106 Central systemic-to-pulmonary arterial interposition shunt,"
+123111,"123111 Bidirectional superior cavopulmonary (Glenn) anastomosis,"
+150503,150503. Pulmonary vein obstruction

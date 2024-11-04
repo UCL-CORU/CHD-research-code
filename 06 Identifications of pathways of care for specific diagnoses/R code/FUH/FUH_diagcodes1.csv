@@ -1,0 +1,20 @@
+shortcode,description
+010114,010114: Double inlet atrioventricular connection (double inlet ventricle)
+010122,010122: Functionally univentricular heart
+010124,010124: Double outlet right ventricle with intact ventricular septum
+010403,010403: Double inlet right ventricle
+010404,010404: Double inlet left ventricle
+010405,010405.Double inlet to solitary ventricle of indeterminate morphology.
+020303,020303.Crisscross heart (twisted atrioventricular connections).
+020305,020305: Solitary ventricle of indeterminate morphology
+060101,060101: Tricuspid atresia
+060102,060102. Tricuspid atresia with imperforate tricuspid valve.
+060311,060311.Congenital anomaly of right-sided atrioventricular valve in double inlet ventricle.
+060411,060411.Congenital anomaly of left-sided atrioventricular valve in double inlet ventricle.
+103412,103412. Acquired abnormality of the right-sided atrioventricular valve in double inlet ventricle.
+103452,103452. Acquired abnormality of the left-sided atrioventricular valve in double inlet ventricle.
+103453,103453. Acquired abnormality of an atrioventricular valve in double inlet ventricle.
+103454,103454. Acquired common atrioventricular valvar abnormality in double inlet ventricle.
+151308,151308.Postprocedural common atrioventricular valvar abnormality in double inlet ventricle.
+151411,151411. Postprocedural right-sided atrioventricular valvar abnormality in double inlet ventricle.
+151511,151511. Postprocedural left-sided atrioventricular valvar abnormality in double inlet ventricle.
