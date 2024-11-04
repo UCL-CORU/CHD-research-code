@@ -54,9 +54,9 @@ We use the following important variables to assign the sentinel CHD diagnosis, s
 *	aa_allocation (record-level, derived):  activity algorithm allocation of procedure type. The algorithm is developed by NICOR (version 8.03, used in NICOR. See R code in https://github.com/fespuny/CORUcode/tree/main/AA%20SP%20-%20R%20Code)
 *	InterType (record-level, derived):  intervention type derived from aa_allocation.
   The labels are:
-  - 1: Surgery and hybrid (aa_allocation 1:bypass ,2:non-bypass,3:hybrid)
-  - 2: Interventional catheters and ep (aa_allocation 6: icd:non-surgical, 7: pacemaker:non-surgical, 8: ep:non-surgical, 9: intervention:non-surgical)
-  - 3: Excluded (aa_allocation 4: vad, 5: unallocated-ecmo, 10: diagnostic:non-surgical, 11: unallocated, 12: primary ecmo)
+    - 1: Surgery and hybrid (aa_allocation 1:bypass ,2:non-bypass,3:hybrid)
+    - 2: Interventional catheters and ep (aa_allocation 6: icd:non-surgical, 7: pacemaker:non-surgical, 8: ep:non-surgical, 9: intervention:non-surgical)
+    - 3: Excluded (aa_allocation 4: vad, 5: unallocated-ecmo, 10: diagnostic:non-surgical, 11: unallocated, 12: primary ecmo)
 *	lastknownstatus/ageatlastknowstatus (patient-level, derived. see in data_processing_for_NCHDA.R): vital status (0 censored/1 death) and age at vital status, which were computed from two data sources: NCHDA and ONS death registration.
   Patient vital status (dead or alive) was provided at the point of hospital discharge by NCHDA, who obtained this information from treating centres. The age at death for any patient who had died was taken from death certification data provided by the ONS. For surviving patients, we received from ONS their age when this status was confirmed. Any patients that were discharged alive and who had missing life status with ONS were deemed lost to follow up and were censored at their most recent discharge age provided by NCHDA. 
 *	lastknownstatus_NCHDA/ageatlastknowstatus_NCHDA (patient-level, derived in data_processing_for_NCHDA.R): vital status (0 censored/1 death) and vital at survival status as of the last date of NCHDA dataset. 
