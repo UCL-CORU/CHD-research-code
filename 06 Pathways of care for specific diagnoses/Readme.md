@@ -46,12 +46,12 @@ We use the following important variables to assign the sentinel CHD diagnosis, s
 *	patid: patient-level identifier 
 *	ageatop/ageatdis (record-level, derived): age at operation/discharge, which was computed by the difference between the date of operation/discharge and the birth date.
 *	patentry (record-level, derived): one patient may have multiple procedure records. We order the entry of each record by age at operation, and if multiple records have the same age at operation, we use age at discharge to order the entry.
-*	diagcode1-29 (record-level, derived): EPCC codes in diagnosis filed (cleaned, contain the 6 digits EPCC Code only)
-*	comorbidity1-16 (record-level, derived): codes in comorbidity filed (cleaned, contain the 6 digits EPCC Code only)
-*	proccode1-7 (record-level, derived):  codes in procedure filed (cleaned, contain the 6 digits EPCC Code only)
-*	prevproccode1-26 (record-level, derived):  codes in previous procedure filed (cleaned, contain the 6 digits EPCC Code only)
-*	sp_allocation (record-level, derived): specific procedure algorithm allocation of procedure type ([version 8.05, used in NICOR](https://github.com/UCL-CORU/CHD-research-code/tree/main/01%20Data%20cleaning))
-*	aa_allocation (record-level, derived):  activity algorithm allocation of procedure type. The algorithm is developed by NICOR ([version 8.03, used in NICOR](https://github.com/UCL-CORU/CHD-research-code/tree/main/01%20Data%20cleaning))
+*	diagcode1-29 (record-level, derived): EPCC codes in diagnosis filed (cleaned, contain the 6 digits EPCC Code only. code can be seen in 01 Data cleaning/01.02 NCHDA data processing from NICOR activity algorithm and specific procedure.R)
+*	comorbidity1-16 (record-level, derived): codes in comorbidity filed (cleaned, contain the 6 digits EPCC Code only. code can be seen in 01 Data cleaning/01.02 NCHDA data processing from NICOR activity algorithm and specific procedure.R)
+*	proccode1-7 (record-level, derived):  codes in procedure filed (cleaned, contain the 6 digits EPCC Code only. code can be seen in 01 Data cleaning/01.02 NCHDA data processing from NICOR activity algorithm and specific procedure.R)
+*	prevproccode1-26 (record-level, derived):  codes in previous procedure filed (cleaned, contain the 6 digits EPCC Code only. code can be seen in 01 Data cleaning/01.02 NCHDA data processing from NICOR activity algorithm and specific procedure.R)
+*	sp_allocation (record-level, derived): specific procedure algorithm allocation of procedure type ([version 8.05, used in NICOR](code can be seen in 01 Data cleaning/01.02 NCHDA data processing from NICOR activity algorithm and specific procedure.R)
+*	aa_allocation (record-level, derived):  activity algorithm allocation of procedure type. The algorithm is developed by NICOR (code can be seen in 01 Data cleaning/01.02 NCHDA data processing from NICOR activity algorithm and specific procedure.R)
 *	InterType (record-level, derived):  intervention type derived from aa_allocation.
   The labels are:
     - 1: Surgery and hybrid (aa_allocation 1:bypass ,2:non-bypass,3:hybrid)
