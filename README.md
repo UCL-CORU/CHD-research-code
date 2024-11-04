@@ -1,13 +1,15 @@
-# CHD research code
+# R code for analysing national data from England on Congenital Heart Disease 
 
 **Ferran Espuny Pujol, John Stickley, Rodney CG Franklin, Katherine Brown, Jiaqiu Wang, Sonya Crowe, Christina Pagel**
 
 ## Description
 
-R code used for research on Congenital Heart Disease (CHD) in the research projects: 
+R code used for research on Congenital Heart Disease (CHD) by the UCL Clinical Operational Research Unit (CORU) in the projects: 
 
 * LAUNCHES QI - Linking audit and national datasets in congenital heart services for quality improvement;
 * CHAMPION - Congenital heart audit: measuring progress in outcomes nationally (CHAMPION).
+
+Note that although most of the code used in the research projects was in Stata, we have converted it to R for sharing.
 
 ## Code organization
 
@@ -23,7 +25,7 @@ Additional R code can be found in the [UCL CORU site](https://github.com/UCL-COR
 
 ## Acknowledgements
 
-We are grateful to Libby Rogers, previous UCL CORU member, whose Stata code served as starting point for working with NCHDA data.
+We are grateful to Libby Rogers, a previous UCL CORU researcher, whose Stata code served as starting point for working with NCHDA data.
 
 We are grateful to the [LAUNCHES QI and CHAMPION project teams and collaborators](https://www.ucl.ac.uk/clinical-operational-research-unit/research-domains/congenital-heart-disease-children-and-adults). 
 
@@ -32,6 +34,7 @@ The LAUNCHES QI project and this CHD research R code were funded by the Health F
 The CHAMPION project was funded by the National Institute for Health and Care Research (NIHR) Department of Health and Social Care Policy Research Programme (grant number PR‐R20‐0318‐23 001).
 
 ## References
+The following papers have used the code included in this repository (albeit in Stata and (mostly) not in R). 
 
 * K.L Brown, Q. Huang, F. Espuny-Pujol, etal. Evaluating long-term outcomes of children undergoing surgical treatment for congenital heart disease for national audit in England and Wales. [J. Am. Heart Assoc. 2024](https://www.ahajournals.org/doi/10.1161/JAHA.124.035166).
 * K.M. English, F. Espuny-Pujol, R.C. Franklin, etal. Secundum atrial septal defect closure in adults in the UK. [Eur. Heart J. - Quality of Care and Clinical Outcomes, qcae019. 2024](https://doi.org/10.1093/ehjqcco/qcae019).
