@@ -1,4 +1,4 @@
-# CHD research code: Identification of Pathways of Care for Specific Diagnoses
+# CHD research code: Pathways of Care for Specific Diagnoses
 
 **Katherine Brown, Qi Huang, Ferran Espuny Pujol, Christina Pagel, Rodney CG Franklin, Sonya Crowe**
 
