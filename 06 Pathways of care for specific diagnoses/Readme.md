@@ -38,3 +38,26 @@ NCHDA is run by the National Institute for Cardiovascular Outcomes Research (NIC
 CHD and paediatric cardiac operations are very diverse and complex, and are described in NCHDA using a special coding scheme from the European Paediatric Cardiac Code (EPCC), itself a derived Short List of the International Paediatric and Congenital Cardiac Code (www.ipccc.net). 
 One can download the NCHDA data manual and EPCC codes at NICOR’s website (https://www.nicor.org.uk/datasets/supporting-data-set-documentation). 
 To note, as the NCHDA is a procedure-based dataset, patients who did not undergo any surgical or interventional cardiac procedures do not appear in the dataset.
+
+### Important variables 
+
+We use the following important variables to assign the sentinel CHD diagnosis, subgroups, treatment pathway and suspected missing data. 
+
+*	patid: patient-level identifier 
+*	ageatop/ageatdis (record-level, derived): age at operation/discharge, which was computed by the difference between the date of operation/discharge and the birth date.
+*	patentry (record-level, derived): one patient may have multiple procedure records. We order the entry of each record by age at operation, and if multiple records have the same age at operation, we use age at discharge to order the entry.
+*	diagcode1-29 (record-level, derived): EPCC codes in diagnosis filed (cleaned, contain the 6 digits EPCC Code only)
+*	comorbidity1-16 (record-level, derived): codes in comorbidity filed (cleaned, contain the 6 digits EPCC Code only)
+*	proccode1-7 (record-level, derived):  codes in procedure filed (cleaned, contain the 6 digits EPCC Code only)
+*	prevproccode1-26 (record-level, derived):  codes in previous procedure filed (cleaned, contain the 6 digits EPCC Code only)
+*	sp_allocation (record-level, derived): specific procedure algorithm allocation of procedure type (version 8.05, used in NICOR. See R code in https://github.com/fespuny/CORUcode/tree/main/AA%20SP%20-%20R%20Code)
+*	aa_allocation (record-level, derived):  activity algorithm allocation of procedure type. The algorithm is developed by NICOR (version 8.03, used in NICOR. See R code in https://github.com/fespuny/CORUcode/tree/main/AA%20SP%20-%20R%20Code)
+*	InterType (record-level, derived):  intervention type derived from aa_allocation.
+  The labels are:
+  - 1: Surgery and hybrid (aa_allocation 1:bypass ,2:non-bypass,3:hybrid)
+  - 2: Interventional catheters and ep (aa_allocation 6: icd:non-surgical, 7: pacemaker:non-surgical, 8: ep:non-surgical, 9: intervention:non-surgical)
+  - 3: Excluded (aa_allocation 4: vad, 5: unallocated-ecmo, 10: diagnostic:non-surgical, 11: unallocated, 12: primary ecmo)
+*	lastknownstatus/ageatlastknowstatus (patient-level, derived. see in data_processing_for_NCHDA.R): vital status (0 censored/1 death) and age at vital status, which were computed from two data sources: NCHDA and ONS death registration.
+  Patient vital status (dead or alive) was provided at the point of hospital discharge by NCHDA, who obtained this information from treating centres. The age at death for any patient who had died was taken from death certification data provided by the ONS. For surviving patients, we received from ONS their age when this status was confirmed. Any patients that were discharged alive and who had missing life status with ONS were deemed lost to follow up and were censored at their most recent discharge age provided by NCHDA. 
+*	lastknownstatus_NCHDA/ageatlastknowstatus_NCHDA (patient-level, derived in data_processing_for_NCHDA.R): vital status (0 censored/1 death) and vital at survival status as of the last date of NCHDA dataset. 
+There may be a time gap between the ONS confirmation date and the last date of the NCHDA dataset (due to the time required for regulatory processes), so procedures undertaken during this time gap may have been missed. We therefore used patients’ vital status as of the last date of NCHDA to calculate the follow-up time and status of procedures.
