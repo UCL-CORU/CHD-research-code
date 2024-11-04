@@ -11,7 +11,7 @@ R code used for research on Congenital Heart Disease (CHD) in the research proje
 
 ## Contents
 
-06 Pathways of Care for Specific Diagnoses: R code and Word documents
+06 Pathways of Care for Sentinel Diagnoses: R code and Word documents
 
 There are 9 sentinel Congenital Heart Disease (CHD) diagnoses and one should run the programming for each CHD diagnosis in the following order (decreasing order of complexity):
 *	Hypoplastic left heart syndrome (HLHS)
