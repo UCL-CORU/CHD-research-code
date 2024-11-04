@@ -66,4 +66,4 @@ There may be a time gap between the ONS confirmation date and the last date of t
 
 For further details, you can consult the provided Word documents (Example of assigning pathways for HLHS) and the publication
 
-> K.L Brown, Q. Huang, F. Espuny-Pujol, etal. Evaluating long-term outcomes of children undergoing surgical treatment for congenital heart disease for national audit in England and Wales. [J. Am. Heart Assoc. 2024](https://www.ahajournals.org/doi/10.1161/JAHA.124.035166).
+> K.L Brown, Q. Huang, F. Espuny-Pujol, et al. Evaluating long-term outcomes of children undergoing surgical treatment for congenital heart disease for national audit in England and Wales. [J. Am. Heart Assoc. 2024](https://www.ahajournals.org/doi/10.1161/JAHA.124.035166).
