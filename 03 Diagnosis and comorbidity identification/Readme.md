@@ -13,7 +13,7 @@ R code used for research on Congenital Heart Disease (CHD) in the research proje
 
 03 Diagnosis and Comorbidity Identification: R files and Mapping files
 
-R files allow to use NCHDA record-level diagnosis and comorbidity codes to derive:
+R files to use NCHDA record-level diagnosis and comorbidity codes to derive:
 
 * diagnosis groups (R file 03.01), 
 * comorbidity groups (R file 03.02)
