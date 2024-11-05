@@ -9,6 +9,8 @@ R code used for research on Congenital Heart Disease (CHD) by the UCL Clinical O
 * LAUNCHES QI - Linking audit and national datasets in congenital heart services for quality improvement;
 * CHAMPION - Congenital heart audit: measuring progress in outcomes nationally (CHAMPION).
 
+The core dataset is the UK National Congenital Heart Disease Audit (NCHDA) run by NICOR. Other datasets used (linked to NCHDA) are NHS England Hospital Episode Statistics, ONS life status, and the Paediatric Instensive Care Audit Network (PICANet). 
+
 Note that although most of the code used in the research projects was in Stata, we have converted it to R for sharing.
 
 ## Code organization
@@ -22,7 +24,6 @@ Note that although most of the code used in the research projects was in Stata, 
 
 Additional R code can be found in the [UCL CORU site](https://github.com/UCL-CORU/) for:
 * [Linkage of records using patient identifiers](https://github.com/UCL-CORU/LAUNCHESQI_Linkage)
-
 
 ## Acknowledgements
 
