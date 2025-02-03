@@ -40,8 +40,8 @@ The CHAMPION project was funded by the National Institute for Health and Care Re
 ## References
 The following papers have used the code included in this repository, albeit in Stata and (mostly) not in R. 
 
+* K.M. English, F. Espuny-Pujol, R.C. Franklin, et al. Secundum atrial septal defect closure in adults in the UK. [Eur. Heart J. - Quality of Care and Clinical Outcomes, 11(1):78-88. 2025](https://doi.org/10.1093/ehjqcco/qcae019).
 * K.L Brown, Q. Huang, F. Espuny-Pujol, et al. Evaluating long-term outcomes of children undergoing surgical treatment for congenital heart disease for national audit in England and Wales. [J. Am. Heart Assoc. 2024](https://www.ahajournals.org/doi/10.1161/JAHA.124.035166).
-* K.M. English, F. Espuny-Pujol, R.C. Franklin, et al. Secundum atrial septal defect closure in adults in the UK. [Eur. Heart J. - Quality of Care and Clinical Outcomes, qcae019. 2024](https://doi.org/10.1093/ehjqcco/qcae019).
 * D. Dorobantu, F. Espuny Pujol, M. Kostolny, et al. Arterial switch for transposition of the great arteries: treatment timing, late outcomes and risk factors. [J. Am. Coll. Cardiol. Adv., 2(5)100407. 2023](https://doi.org/10.1016/j.jacadv.2023.100407).
 * D. Dorobantu, Q. Huang, F. Espuny Pujol, et al. Hospital resource utilization in a national cohort of functionally single ventricle patients undergoing surgical treatment. [J. Thorac. Cardiov. Surg. Open, 14: 441–461. 2023](https://doi.org/10.1016/j.xjon.2023.03.014).
 *	F. Espuny Pujol, R.C. Franklin, S. Crowe, et al. Transfer of Congenital Heart Patients from Paediatric to Adult services in England. [Heart, 108(24): 1964–1971. 2022](https://doi.org/10.1136/heartjnl-2022-321085).
