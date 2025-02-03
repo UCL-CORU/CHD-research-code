@@ -73,10 +73,6 @@ code	AdditionalRiskFactorGroup_PRAIS3
 101364	Additional Cardiac Risk Factors
 101365	Additional Cardiac Risk Factors
 101510	Additional Cardiac Risk Factors
-101600	Additional Cardiac Risk Factors
-101608	Additional Cardiac Risk Factors
-101640	Additional Cardiac Risk Factors
-101647	Additional Cardiac Risk Factors
 101800	Additional Cardiac Risk Factors
 101801	Additional Cardiac Risk Factors
 101826	Additional Cardiac Risk Factors
@@ -95,7 +91,6 @@ code	AdditionalRiskFactorGroup_PRAIS3
 102049	Congenital Comorbidity
 102304	Congenital Comorbidity
 140101	Congenital Comorbidity
-140102	Congenital Comorbidity
 140103	Congenital Comorbidity
 140104	Congenital Comorbidity
 140105	Congenital Comorbidity
@@ -141,9 +136,10 @@ code	AdditionalRiskFactorGroup_PRAIS3
 140601	Congenital Comorbidity
 161001	Congenital Comorbidity
 161009	Congenital Comorbidity
-102202	Premature (not used in PRAiS)
-102205	Premature (not used in PRAiS)
-102206	Premature (not used in PRAiS)
+140102	Downs Syndrome (not used in PRAiS)
+102202	Premature
+102205	Premature
+102206	Premature
 101723	Severity of illness
 102002	Severity of illness
 102005	Severity of illness
