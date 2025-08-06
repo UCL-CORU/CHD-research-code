@@ -100,3 +100,4 @@
   # actual total number of deaths at 30 days
   sum( nchda$death_30d )
   
+
