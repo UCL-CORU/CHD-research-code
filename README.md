@@ -37,7 +37,7 @@ The CHAMPION project was funded by the National Institute for Health and Care Re
 ## References
 The following papers have used the code included in this repository, albeit in Stata and (mostly) not in R. 
 
-* D.M Dorobantu, Q. Huang, F. Espuny-Pujol, et al. Contemporary outcomes of childhood aortic coarctation interventions: a national registry analysis of mortality, reinterventions, and hospital resource use. [Heart](https://doi.org/10.1136/heartjnl-2024-325346)
+* D.M Dorobantu, Q. Huang, F. Espuny-Pujol, et al. Contemporary outcomes of childhood aortic coarctation interventions: a national registry analysis of mortality, reinterventions, and hospital resource use. [Heart, Published Online First: 08 July 2025](https://doi.org/10.1136/heartjnl-2024-325346).
 * K.L Brown, Q. Huang, F. Espuny-Pujol, et al. A cohort evaluation of surgical pathways reported to national audit for children undergoing treatment for congenital heart disease in England and Wales. [J Thorac Cardiovasc Surg, 170(2):316-324.e13. 2025](https://doi.org/10.1016/j.jtcvs.2025.02.029).
 * K.M. English, F. Espuny-Pujol, R.C. Franklin, et al. Secundum atrial septal defect closure in adults in the UK. [Eur Heart J - Qual Care Clin Outcomes, 11(1):78–88. 2025](https://doi.org/10.1093/ehjqcco/qcae019).
 * K.L Brown, Q. Huang, F. Espuny-Pujol, et al. Evaluating long-term outcomes of children undergoing surgical treatment for congenital heart disease for national audit in England and Wales. [J Am Heart Assoc, 13(21):e035166. 2024](https://www.ahajournals.org/doi/10.1161/JAHA.124.035166).
