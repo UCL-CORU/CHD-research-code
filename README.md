@@ -36,7 +36,7 @@ The CHAMPION project was funded by the National Institute for Health and Care Re
 
 ## References
 The following papers have used the code included in this repository, albeit in Stata and (mostly) not in R. 
-* H.K. Mitchell, F. Espuny Pujol, R.C. Franklin, et al. Risk models for monitoring post-operative complication rates after pediatric cardiac surgery. [Eur J Cardio-Thorac Surg, 67(10):ezaf317](https://doi.org/10.1093/ejcts/ezaf317).
+* H.K. Mitchell, F. Espuny Pujol, R.C. Franklin, et al. Risk models for monitoring post-operative complication rates after pediatric cardiac surgery. [Eur J Cardio-Thorac Surg, 67(10):ezaf317. 2025](https://doi.org/10.1093/ejcts/ezaf317).
 * F. Espuny-Pujol, C. Pagel, G. Ambler, et al. New models for risk-adjusted monitoring of post-surgical complications and mortality in adult congenital heart disease in England and Wales. [Ann Thorac Surg, In Press Available online: 14 August 2025](https://www.sciencedirect.com/science/article/pii/S0003497525007519). 
 * D.M Dorobantu, Q. Huang, F. Espuny-Pujol, et al. Contemporary outcomes of childhood aortic coarctation interventions: a national registry analysis of mortality, reinterventions, and hospital resource use. [Heart, Published Online First: 08 July 2025](https://doi.org/10.1136/heartjnl-2024-325346).
 * K.L Brown, Q. Huang, F. Espuny-Pujol, et al. A cohort evaluation of surgical pathways reported to national audit for children undergoing treatment for congenital heart disease in England and Wales. [J Thorac Cardiovasc Surg, 170(2):316-324.e13. 2025](https://doi.org/10.1016/j.jtcvs.2025.02.029).
