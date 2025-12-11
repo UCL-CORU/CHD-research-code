@@ -22,11 +22,11 @@ The latest specification for PRAiS4, including a summary of changes from PRAiS2 
 
 R files to use all processed NCHDA data to:
 
-* generate 30-day paediatric surgery episodes and derive all PRAi4S risk factors (R file 05.01), 
-* run the PRAiS4 risk model (R file 05.02),
-* generate 30-day and 90-day adult surgery episodes and derive all ACHD risk factors (R file 05.03),
-* run the ACHD 30-day mortality risk model (R file 05.04),
-* run the ACHD 90-day mortality risk model (R file 05.05),
+* generate 30-day paediatric surgery episodes and derive all PRAi4S risk factors (R file 05.01) 
+* run the PRAiS4 risk model (R file 05.02)
+* generate 30-day and 90-day adult surgery episodes and derive all ACHD risk factors (R file 05.03)
+* run the ACHD 30-day mortality risk model (R file 05.04)
+* run the ACHD 90-day mortality risk model (R file 05.05)
 * run the ACHD 30-day complications risk model (R file 05.06)
 
 The folder [mapping files](<mapping files>) contains the PRAIS definitions of diagnosis and procedure broad risk groups, the actual coefficients for the PRAIS model, the ACHD inclusion and risk factor definition mappings, and the actual coefficients for all three ACHD risk models.
