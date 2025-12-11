@@ -1,0 +1,15 @@
+code	fullcode
+120625	120625. Transluminal right ventricular biopsy
+122341	122341. Transluminal intracoronary echocardiography (IVUS)
+124501	124501. Catheterisation transeptal approach with transeptal puncture
+124507	124507. Transluminal diagnostic test occlusion
+130024	130024. Cardiovascular Magnetic Resonance Imaging (CMRI)
+130124	130124. Transluminal intracardiac echocardiographic examination
+130127	130127. Intravascular ultrasound (IVUS) examination
+130501	130501. Diagnostic cardiovascular catheterisation procedure
+130505	130505. Diagnostic cardiovascular catheterisation procedure: angiographic data obtained
+130506	130506. Diagnostic cardiovascular catheterisation procedure: haemodynamic data obtained
+130507	130507. Diagnostic cardiovascular catheterisation procedure with haemodynamic alteration (challenge)
+130508	130508. Diagnostic cardiovascular catheterisation procedure with electrophysiological alteration (challenge)
+130513	130513. Catheterisation study for pulmonary hypertension evaluation
+130536	130536. Diagnostic cardiovascular catheterisation procedure with intention to treat: anatomy unsuitable

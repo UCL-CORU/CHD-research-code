@@ -1,0 +1,53 @@
+code	fullcode
+120024	120024. Balloon dilation of pulmonary vein or pathway
+120050	120050. Coronary sinus procedure
+120090	120090. Cardiopulmonary bypass used during procedure
+120107	120107. Patent foramen ovale (PFO) closure with transluminal device
+120153	120153. Patent foramen ovale (PFO) direct closure
+120726	120726. Left ventricular procedure
+121351	121351. Transluminal pulmonary valvar insertion with stent mounted valve
+121381	121381. Transluminal aortic valvar insertion with stent mounted valve
+121668	121668. Abdominal aorta aneurysm repair
+121817	121817. Stent placement at site of aortic coarctation
+122200	122200. Systemic arterial procedure
+123206	123206. Lung biopsy procedure
+123221	123221. Cardiac procedure
+123229	123229. Diaphragm procedure
+123240	123240. Pericardiocentesis
+123241	123241. Pericardial drainage: open (pericardiotomy)
+123283	123283. Insertion of mediastinal tube drain
+123310	123310. Traumatic injury of heart repair
+123352	123352. Non-cardiothoracic-vascular procedure
+123450	123450. Pacemaker system placement: single chamber
+123451	123451. Pacemaker system placement: dual chamber
+123460	123460. Pacemaker system placement: temporary
+123463	123463. Pacemaker system placement: permanent epicardial
+123464	123464. Pacemaker system placement: permanent endocardial
+123467	123467. Pacemaker system placement: permanent
+123468	123468. Pacemaker procedure
+123470	123470. Pacemaker wire procedure
+123484	123484. Pacemaker wire revision procedure
+123485	123485. Pulse generator box placement
+123513	123513. Pulse generator box replacement
+123514	123514. Removal of complete implanted cardiac pacemaker system
+123546	123546. Transluminal cryoablation procedure for arrhythmia
+123548	123548. Transluminal radiofrequency ablation procedure for arrhythmia
+123560	123560. Pacing to abolish arrhythmia
+124006	124006. Thoracoscopic approach (VATS)
+124016	124016. Thoracotomy: redo
+124029	124029. Median sternotomy: redo x 1-3
+124030	124030. Median sternotomy: redo x 4 or more
+124234	124234. Implantable cardioverter & defibrillator (ICD) system removal
+124475	124475. Removal of implanted pacemaker lead
+126505	126505. Mediastinal exploration
+126506	126506. Mediastinal procedure
+128701	128701. Cardiac support procedure
+128710	128710. Intra-aortic balloon pump (IABP) insertion
+128722	128722. Right ventricular assist device implantation
+128723	128723. Left ventricular assist device implantation
+128724	128724. Biventricular assist device implantation
+128725	128725. Cardiac support using Extracorporeal Membrane Oxygenation (ECMO) circuitry
+128741	128741. Ventricular assist device removal
+128745	128745. Take down (decannulation) of Extracorporeal Membrane Oxygenation (ECMO) circuitry
+130103	130103. Transoesophageal echocardiographic examination
+130512	130512. Electrophysiological study (EPS)

@@ -1,0 +1,13 @@
+field	coefficient
+agetrans_1	.0185982
+1.spgrp	1.538262
+1.numACHDProcCodes	1.049665
+ESCcomplexity.2	1.260081
+ESCcomplexity.3	1.520881
+1.CongComo	.8557127
+1.AcquComo	.7469389
+1.AddiCardRiskFact	.9579707
+3plus.sternotomies	.6097485
+1.preprocnyhastatus_trans	.9663631
+1.combined_evf_trans	.5639531
+_cons	-7.651833

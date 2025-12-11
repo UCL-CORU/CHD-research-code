@@ -1,0 +1,55 @@
+Specific Procedure v8.05	Procedure code	Ages below 40	Non bypass
+21:avsd_partial	120401. AVSD: partial (primum ASD) repair	0	0
+22 Mitral valve replacement	120311. Mitral valvar replacement	1	0
+22 Mitral valve replacement	120384. Mitral valve repair converted to mitral valvar replacement	1	0
+22 Mitral valve replacement	120445. AVSD: L AV valvar replacement	1	0
+22 Mitral valve replacement	120489. Mitral valve replacement with stented bovine jugular vein conduit	1	0
+25:ross	121630. Ross procedure: aortic valve or root replacement with pulmonary autograft & pulmonary valvar replacement	0	0
+26:Aortic root replacement (not Ross)	121633. Aortic valvar & asc aorta replacement + coronary arterial inclusion (Bentall)	1	0
+26:Aortic root replacement (not Ross)	121650. Aortic root replacement (not Ross)	1	0
+26:Aortic root replacement (not Ross)	121663. Aortic root replacement using homograft	1	0
+26:Aortic root replacement (not Ross)	121664. Aortic root replacement using mechanical prosthesis	1	0
+26:Aortic root replacement (not Ross)	121790. Aortic root replacement using bioprosthesis	1	0
+26:Aortic root replacement (not Ross)	121791. Aortic root replacement: valve sparing technique	1	0
+27:aortic_valve_replacement	121621. Aortic valvar replacement	1	0
+27:aortic_valve_replacement	121622. Aortic valvar replacement using homograft	1	0
+27:aortic_valve_replacement	121628. Aortic valvar replacement using heterograft bioprosthesis	1	0
+27:aortic_valve_replacement	121629. Aortic valvar replacement using mechanical prosthesis	1	0
+27:aortic_valve_replacement	121697. Aortic valve repair converted to aortic valvar replacement	1	0
+27:aortic_valve_replacement	"121777. Aortic valvar replacement using autologous pericardium constructed valve leaflets (Ozaki),"	1	0
+28:tricuspid_valve_replacement	120211. Tricuspid valvar replacement	0	0
+28:tricuspid_valve_replacement	120283. Tricuspid valve repair converted to tricuspid valvar replacement	0	0
+29:pulmonary_valve_replacement	121321. Pulmonary valvar replacement (not conduit)	0	0
+29:pulmonary_valve_replacement	121322. Pulmonary valvar replacement using homograft	0	0
+29:pulmonary_valve_replacement	121355. Pulmonary valve repair converted to pulmonary valvar replacement	0	0
+30 Mitral valve repair	120300. Mitral valvar procedure	1	0
+30 Mitral valve repair	120304. Mitral valvar annuloplasty	1	0
+30 Mitral valve repair	120303. Mitral leaflet (valvoplasty) procedure	1	0
+30 Mitral valve repair	120301. Mitral valvotomy	1	0
+31 Aortic valve repair	121600. Aortic valvar procedure	1	1
+31 Aortic valve repair	121602. Aortic valvotomy - open	1	1
+31 Aortic valve repair	121604. Aortic valvotomy - closed	1	1
+31 Aortic valve repair	121611. Aortic valvoplasty	1	1
+31 Aortic valve repair	121614. 'Annuloplasty' of aortic valve	1	1
+32:tricuspid_valve_repair	120200. Tricuspid valvar procedure	0	0
+32:tricuspid_valve_repair	120202. Tricuspid leaflet (valvoplasty) procedure	0	0
+32:tricuspid_valve_repair	120204. Tricuspid valvar annuloplasty	0	0
+32:tricuspid_valve_repair	120209. Ebsteins malformation of tricuspid valve repair	0	0
+32:tricuspid_valve_repair	"120286. Ebstein malformation or dysplasia of tricuspid valve repair: cone procedure,"	0	0
+37:rv_pa_conduit	123601. Right ventricle to pulmonary artery conduit construction	0	0
+47:coarctation_hypoplasia	121800. Coarctation / hypoplasia of aorta repair	0	1
+47:coarctation_hypoplasia	121801. Aortic coarct/hypoplasia repair: resection & end/end anast	0	1
+47:coarctation_hypoplasia	121802. Aortic coarct/hypoplasia repair: patch aortoplasty	0	1
+47:coarctation_hypoplasia	121803. Aortic coarct/hypoplasia repair: subclavian flap aortoplasty	0	1
+47:coarctation_hypoplasia	121810. Aortic coarct/hypoplasia repair: extended resection & end/end anast	0	1
+47:coarctation_hypoplasia	121815. Aortic coarct/hypoplasia repair: resection + insertion tube graft	0	1
+47:coarctation_hypoplasia	121830. Aortic arch repair	0	1
+49:conduit_replacement	123610. Replacement of cardiac conduit	0	0
+49:conduit_replacement	123646. Replacement of right ventricle to pulmonary artery conduit	0	0
+52:sinus_venosus_asd_papvc	120002. Partially anomalous pulmonary venous connection repair	0	0
+52:sinus_venosus_asd_papvc	120078. Partially anomalous pulmonary venous connection repair: baffle redirection to left atrium & systemic vein translocated to right atrial appendage (Warden)	0	0
+52:sinus_venosus_asd_papvc	120110. Sinus venosus ASD closure	0	0
+54:asd	120055. Coronary sinus ASD repair	0	0
+54:asd	120101. ASD closure	0	0
+54:asd	120102. ASD closure with direct suture	0	0
+54:asd	120103. ASD closure with patch	0	0
