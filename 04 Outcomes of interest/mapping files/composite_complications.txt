@@ -1,0 +1,9 @@
+code	description
+110633	Postprocedural complete atrioventricular block requiring permanent pacemaker system
+158213	Acute kidney injury requiring dialysis
+158086	Postprocedural requirement for tracheostomy
+158064	Prolonged pleural drainage > 7 days
+158065	Prolonged pleural drainage > 10 days
+150009	Requirement for mechanical circulatory support
+158257	New permanent neurological impairment
+156741	Surgical site infection requiring surgical intervention
