@@ -104,7 +104,8 @@
   
   rm( list = setdiff( ls(), c("nchda_data","out_file_name") ) )
   gc()
-  
+
+#
 # 7. Saving the data into file (we adopt the data table approach)
   require( data.table )
   fwrite( x = nchda_data, file=out_file_name, row.names = FALSE )
