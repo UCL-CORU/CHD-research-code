@@ -4,6 +4,7 @@
 
 <!-- badges: start -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14039423.svg)](https://doi.org/10.5281/zenodo.14039423)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 <!-- badges: end -->
 
 ## Description
