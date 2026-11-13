@@ -2,6 +2,10 @@
 
 **Ferran Espuny Pujol, Qi Huang, John Stickley, Rodney CG Franklin, Katherine Brown, Jiaqiu Wang, Sonya Crowe, Christina Pagel**
 
+<!-- badges: start -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14039423.svg)](https://doi.org/10.5281/zenodo.14039423)
+<!-- badges: end -->
+
 ## Description
 
 R code used for research on Congenital Heart Disease (CHD) by the UCL Clinical Operational Research Unit (CORU) in the projects: 
